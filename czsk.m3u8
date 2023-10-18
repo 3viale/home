@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/3viale/home/main/guide.xml"
 #EXTINF:-1 ,360 TuneBOX
 http://91.237.170.206:43210/channel/n3fc0c020/index.m3u8
 #EXTINF:-1 ,AMC
