@@ -59,8 +59,6 @@ http://91.237.170.206:43210/channel/734a5f05/index.m3u8
 http://91.237.170.206:43210/channel/n554e6460/index.m3u8
 #EXTINF:-1 ,Discovery Science
 http://91.237.170.206:43210/channel/n4208f40c/index.m3u8
-#EXTINF:-1 ,DISCOVERY SCIENCE
-http://185.188.188.235/live/discoveryscience/playlist.m3u8
 #EXTINF:-1 ,Disney
 http://91.237.170.206:43210/channel/n4f5dcdac/index.m3u8
 #EXTINF:-1 ,DISNEY CHANNEL
@@ -127,16 +125,12 @@ http://91.237.170.206:43210/channel/30c41e/index.m3u8
 http://91.237.170.206:43210/channel/74496783/index.m3u8
 #EXTINF:-1 ,InfoKanal
 http://91.237.170.206:43210/channel/4a09ec15/index.m3u8
-#EXTINF:-1 ,InfoKanal
-[loop]http://91.237.170.206:43210/channel/62e3b929/index.m3u8
 #EXTINF:-1 ,Jednotka
 http://91.237.170.206:43210/channel/n6d071d80/index.m3u8
 #EXTINF:-1 ,JIMJAM
 http://185.188.188.235/live/jimjam/playlist.m3u8
 #EXTINF:-1 ,JOJ
 http://91.237.170.206:43210/channel/19bc5/index.m3u8
-#EXTINF:-1 ,JOJ
-[HEVC]http://91.237.170.206:43210/channel/n4eb4cd8d/index.m3u8
 #EXTINF:-1 ,JOJ 24
 http://91.237.170.206:43210/channel/n44d16f83/index.m3u8
 #EXTINF:-1 ,JOJ Cinema
@@ -157,8 +151,6 @@ http://91.237.170.206:43210/channel/6218318/index.m3u8
 http://91.237.170.206:43210/channel/6dbf3915/index.m3u8
 #EXTINF:-1 ,Markiza
 http://91.237.170.206:43210/channel/32060363/index.m3u8
-#EXTINF:-1 ,Markiza
-[HEVC]http://91.237.170.206:43210/channel/n573162eb/index.m3u8
 #EXTINF:-1 ,Markiza Krimi
 http://91.237.170.206:43210/channel/79f4fe01/index.m3u8
 #EXTINF:-1 ,MiniMax
