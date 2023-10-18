@@ -1,303 +1,321 @@
 #EXTM3U
+#EXTINF:-1 ,360 TuneBOX
+http://91.237.170.206:43210/channel/n3fc0c020/index.m3u8
 #EXTINF:-1 ,AMC
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/23314
+http://185.188.188.235/live/amc/playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+http://91.237.170.206:43210/channel/25ffd83c/index.m3u8
 #EXTINF:-1 ,AXN
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115455
-#EXTINF:-1 ,Boomerang
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115456
+http://185.188.188.235/live/axn/playlist.m3u8
+#EXTINF:-1 ,AXN BLACK
+http://185.188.188.235/live/axnblack/playlist.m3u8
+#EXTINF:-1 ,AXN WHITE
+http://185.188.188.235/live/axnwhite/playlist.m3u8
+#EXTINF:-1 ,BARRANDOV
+http://185.188.188.235/live/barrandov/playlist.m3u8
+#EXTINF:-1 ,Blue Hustler
+http://91.237.170.206:43210/channel/2eecd165/index.m3u8
+#EXTINF:-1 ,CANAL+ Sport 1
+http://91.237.170.206:43210/channel/n131bae0b/index.m3u8
+#EXTINF:-1 ,CANAL+ Sport 2
+http://91.237.170.206:43210/channel/n131bae0a/index.m3u8
+#EXTINF:-1 ,CARTOON NETWORK
+http://185.188.188.235/live/cartoonnetwork/playlist.m3u8
 #EXTINF:-1 ,Cinemax
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/121565
+http://91.237.170.206:43210/channel/2e736ba7/index.m3u8
+#EXTINF:-1 ,Cinemax2
+http://91.237.170.206:43210/channel/n6005f695/index.m3u8
+#EXTINF:-1 ,Crime Investigation
+http://91.237.170.206:43210/channel/1ae7c854/index.m3u8
 #EXTINF:-1 ,CS Film
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115467
+http://91.237.170.206:43210/channel/3b391f34/index.m3u8
+#EXTINF:-1 ,CS FILM
+http://185.188.188.235/live/csfilm/playlist.m3u8
+#EXTINF:-1 ,CS History
+http://91.237.170.206:43210/channel/468a1ce4/index.m3u8
 #EXTINF:-1 ,CS Mystery
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/286853
-#EXTINF:-1 ,Ct 1 FHD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115457
-#EXTINF:-1 ,Ct 2 FHD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115458
-#EXTINF:-1 ,Ct 24 FHD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115459
-#EXTINF:-1 ,CT4 Sport FHD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115460
-#EXTINF:-1 ,Dajto HD
-http://213.81.133.133:8080/dajto/index.m3u8
+http://91.237.170.206:43210/channel/6a56a98f/index.m3u8
+#EXTINF:-1 ,CS MYSTERY
+http://185.188.188.235/live/csmystery/playlist.m3u8
+#EXTINF:-1 ,CT 1
+http://185.188.188.235/live/ct1/playlist.m3u8
+#EXTINF:-1 ,CT 2
+http://185.188.188.235/live/ct2/playlist.m3u8
+#EXTINF:-1 ,CT 24
+http://185.188.188.235/live/ct24/playlist.m3u8
+#EXTINF:-1 ,CT 24
+http://91.237.170.206:43210/channel/5a85051/index.m3u8
+#EXTINF:-1 ,CT Sport
+http://91.237.170.206:43210/channel/618b6f05/index.m3u8
+#EXTINF:-1 ,CT SPORT
+http://185.188.188.235/live/ctsport/playlist.m3u8
+#EXTINF:-1 ,DajTO
+http://91.237.170.206:43210/channel/5aee2c8/index.m3u8
+#EXTINF:-1 ,DISCOVERY
+http://185.188.188.235/live/discovery/playlist.m3u8
+#EXTINF:-1 ,Discovery Central
+http://91.237.170.206:43210/channel/734a5f05/index.m3u8
+#EXTINF:-1 ,Discovery ID Xtra
+http://91.237.170.206:43210/channel/n554e6460/index.m3u8
 #EXTINF:-1 ,Discovery Science
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/146933
-#EXTINF:-1 ,Discovery World
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/290373
+http://91.237.170.206:43210/channel/n4208f40c/index.m3u8
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://185.188.188.235/live/discoveryscience/playlist.m3u8
 #EXTINF:-1 ,Disney
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115463
-#EXTINF:-1 ,Duck TV
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115464
+http://91.237.170.206:43210/channel/n4f5dcdac/index.m3u8
+#EXTINF:-1 ,DISNEY CHANNEL
+http://185.188.188.235/live/disneychannel/playlist.m3u8
+#EXTINF:-1 ,DocuBOX
+http://91.237.170.206:43210/channel/6d02d66e/index.m3u8
+#EXTINF:-1 ,Doma
+http://91.237.170.206:43210/channel/2f235f/index.m3u8
+#EXTINF:-1 ,Dorcel
+http://91.237.170.206:43210/channel/n4f09de5d/index.m3u8
+#EXTINF:-1 ,DUCK TV
+http://185.188.188.235/live/ducktv/playlist.m3u8
+#EXTINF:-1 ,duckTV
+http://91.237.170.206:43210/channel/n4ebc0305/index.m3u8
 #EXTINF:-1 ,Dvojka
-http://213.81.133.133:8080/dvojka/index.m3u8
-#EXTINF:-1 ,E! Entertainment
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115465
-#EXTINF:-1 ,Elektrika TV
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/29196
-#EXTINF:-1 ,Epic Drama HD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115466
-#EXTINF:-1 ,EUROSPORT 1
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46693
+http://91.237.170.206:43210/channel/n4ea87bfd/index.m3u8
+#EXTINF:-1 ,Epic Drama
+http://91.237.170.206:43210/channel/n745fee74/index.m3u8
+#EXTINF:-1 ,EroX
+http://91.237.170.206:43210/channel/2fa356/index.m3u8
+#EXTINF:-1 ,EroXXX
+http://91.237.170.206:43210/channel/n4d2bcb2a/index.m3u8
+#EXTINF:-1 ,EUROSPORT
+http://185.188.188.235/live/eurosport/playlist.m3u8
+#EXTINF:-1 ,EuroSport 1
+http://91.237.170.206:43210/channel/n23bc508/index.m3u8
+#EXTINF:-1 ,EuroSport 2
+http://91.237.170.206:43210/channel/n23bc507/index.m3u8
 #EXTINF:-1 ,EUROSPORT 2
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46698
-#EXTINF:-1 ,Fashion TV
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/286357
+http://185.188.188.235/live/eurosport2/playlist.m3u8
+#EXTINF:-1 ,FILM BOX
+http://185.188.188.235/live/filmbox/playlist.m3u8
+#EXTINF:-1 ,FILM BOX EXTRA
+http://185.188.188.235/live/filmboxextra/playlist.m3u8
+#EXTINF:-1 ,FILM BOX FAMILY
+http://185.188.188.235/live/filmboxfamily/playlist.m3u8
+#EXTINF:-1 ,FILM BOX PREMIUM
+http://185.188.188.235/live/filmboxpremium/playlist.m3u8
+#EXTINF:-1 ,FILM BOX STARS
+http://185.188.188.235/live/filmboxstars/playlist.m3u8
 #EXTINF:-1 ,FILM EUROPE
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/295047
-#EXTINF:-1 ,Filmbox Premium
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115469
+http://185.188.188.235/live/filmeurope/playlist.m3u8
+#EXTINF:-1 ,Film+
+http://91.237.170.206:43210/channel/5cebb27/index.m3u8
+#EXTINF:-1 ,FilmBox
+http://91.237.170.206:43210/channel/n32f29639/index.m3u8
+#EXTINF:-1 ,FilmBox Extra
+http://91.237.170.206:43210/channel/n270a9f89/index.m3u8
 #EXTINF:-1 ,FilmBox Premium
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46699
+http://91.237.170.206:43210/channel/n540ee302/index.m3u8
 #EXTINF:-1 ,FilmBox Stars
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/291135
-#EXTINF:-1 ,Fine Living
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46700
-#EXTINF:-1 ,Golf Channel
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115471
+http://91.237.170.206:43210/channel/n26476f38/index.m3u8
 #EXTINF:-1 ,HBO
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/23326
+http://91.237.170.206:43210/channel/192b5/index.m3u8
+#EXTINF:-1 ,HBO 1
+http://185.188.188.235/live/hbo/playlist.m3u8
 #EXTINF:-1 ,HBO 2
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/23321
-#EXTINF:-1 ,HBO 2 HD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115472
-#EXTINF:-1 ,HBO 3
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/23319
-#EXTINF:-1 ,HBO 3 HD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115473
-#EXTINF:-1 ,History
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/146940
-#EXTINF:-1 ,Investigation Discovery
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/291140
+http://185.188.188.235/live/hbo2/playlist.m3u8
+#EXTINF:-1 ,HBO2
+http://91.237.170.206:43210/channel/30c41d/index.m3u8
+#EXTINF:-1 ,HBO3
+http://91.237.170.206:43210/channel/30c41e/index.m3u8
+#EXTINF:-1 ,History CZ
+http://91.237.170.206:43210/channel/74496783/index.m3u8
+#EXTINF:-1 ,InfoKanal
+http://91.237.170.206:43210/channel/4a09ec15/index.m3u8
+#EXTINF:-1 ,InfoKanal
+[loop]http://91.237.170.206:43210/channel/62e3b929/index.m3u8
 #EXTINF:-1 ,Jednotka
-http://213.81.133.133:8080/jednotka/index.m3u8
-#EXTINF:-1 ,JimJam
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115476
-#EXTINF:-1 ,Joj
-http://213.81.133.133:8080/joj/index.m3u8
-#EXTINF:-1 ,JOj Cinema
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/295046
-#EXTINF:-1 ,Joj Family
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/83418
-#EXTINF:-1 ,Joj Plus
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115478
-#EXTINF:-1 ,Jojko
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/54235
-#EXTINF:-1 ,Kino Barrandov
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/83394
-#EXTINF:-1 ,Krimi Barrandov
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/287729
-#EXTINF:-1 ,Lala TV
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/295439
-#EXTINF:-1 ,LocAll
-http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 ,Markiza HD
-http://83.167.253.107/hdmi1_ext
-#EXTINF:-1 ,Minimax
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46706
+http://91.237.170.206:43210/channel/n6d071d80/index.m3u8
+#EXTINF:-1 ,JIMJAM
+http://185.188.188.235/live/jimjam/playlist.m3u8
+#EXTINF:-1 ,JOJ
+http://91.237.170.206:43210/channel/19bc5/index.m3u8
+#EXTINF:-1 ,JOJ
+[HEVC]http://91.237.170.206:43210/channel/n4eb4cd8d/index.m3u8
+#EXTINF:-1 ,JOJ 24
+http://91.237.170.206:43210/channel/n44d16f83/index.m3u8
+#EXTINF:-1 ,JOJ Cinema
+http://91.237.170.206:43210/channel/n40fc1854/index.m3u8
+#EXTINF:-1 ,JOJ Family
+http://91.237.170.206:43210/channel/n3c4eafe1/index.m3u8
+#EXTINF:-1 ,JOJ Plus
+http://91.237.170.206:43210/channel/n56168aeb/index.m3u8
+#EXTINF:-1 ,JOJ Sport
+http://91.237.170.206:43210/channel/n6c8ed0a7/index.m3u8
+#EXTINF:-1 ,KINO BARRANDOV
+http://185.188.188.235/live/kinobarrandov/playlist.m3u8
+#EXTINF:-1 ,LaLa
+http://91.237.170.206:43210/channel/3291aa/index.m3u8
+#EXTINF:-1 ,LeoTV
+http://91.237.170.206:43210/channel/6218318/index.m3u8
+#EXTINF:-1 ,Love Nature
+http://91.237.170.206:43210/channel/6dbf3915/index.m3u8
+#EXTINF:-1 ,Markiza
+http://91.237.170.206:43210/channel/32060363/index.m3u8
+#EXTINF:-1 ,Markiza
+[HEVC]http://91.237.170.206:43210/channel/n573162eb/index.m3u8
+#EXTINF:-1 ,Markiza Krimi
+http://91.237.170.206:43210/channel/79f4fe01/index.m3u8
+#EXTINF:-1 ,MiniMax
+http://91.237.170.206:43210/channel/3f738dad/index.m3u8
+#EXTINF:-1 ,MINIMAX
+http://185.188.188.235/live/minimax/playlist.m3u8
 #EXTINF:-1 ,Mnam TV
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/83423
-#EXTINF:-1 ,MTV Europe
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115481
-#EXTINF:-1 ,NAT GEO
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/21116
-#EXTINF:-1 ,NAT GEO Wild
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/23311
+http://91.237.170.206:43210/channel/474549f5/index.m3u8
+#EXTINF:-1 ,Mnau TV
+http://91.237.170.206:43210/channel/4748eced/index.m3u8
+#EXTINF:-1 ,Nat Geo
+http://91.237.170.206:43210/channel/66e64bd2/index.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://91.237.170.206:43210/channel/5ca4e758/index.m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+http://185.188.188.235/live/natgeo/playlist.m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC WILD
+http://185.188.188.235/live/natgeowild/playlist.m3u8
 #EXTINF:-1 ,Nick Jr
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115482
-#EXTINF:-1 ,Nick Junior
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/201184
-#EXTINF:-1 ,nickelodeon
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46720
+http://91.237.170.206:43210/channel/73be8f25/index.m3u8
 #EXTINF:-1 ,Nickelodeon
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115483
-#EXTINF:-1 ,Nova
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/23335
-#EXTINF:-1 ,Nova 2
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/285317
+http://91.237.170.206:43210/channel/n749b29fb/index.m3u8
+#EXTINF:-1 ,NICKELODEON
+http://185.188.188.235/live/nickelodeon/playlist.m3u8
+#EXTINF:-1 ,NICKJR
+http://185.188.188.235/live/nickjr/playlist.m3u8
+#EXTINF:-1 ,NICKTOONS
+http://185.188.188.235/live/nicktoons/playlist.m3u8
+#EXTINF:-1 ,NOE
+http://185.188.188.235/live/noe/playlist.m3u8
+#EXTINF:-1 ,NOVA
+http://185.188.188.235/live/nova/playlist.m3u8
 #EXTINF:-1 ,Nova Action
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/18409
+http://91.237.170.206:43210/channel/n1e0f1356/index.m3u8
 #EXTINF:-1 ,Nova Cinema
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/21104
-#EXTINF:-1 ,Nova FHD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115486
+http://91.237.170.206:43210/channel/n1a539e9b/index.m3u8
+#EXTINF:-1 ,NOVA CINEMA
+http://185.188.188.235/live/novacinema/playlist.m3u8
 #EXTINF:-1 ,Nova Fun
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/23331
-#EXTINF:-1 ,Nova Gold
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/21103
-#EXTINF:-1 ,Nova Gold HD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115487
+http://91.237.170.206:43210/channel/6157d38b/index.m3u8
+#EXTINF:-1 ,NOVA FUN
+http://185.188.188.235/live/novafun/playlist.m3u8
+#EXTINF:-1 ,NOVA GOLD
+http://185.188.188.235/live/novagold/playlist.m3u8
 #EXTINF:-1 ,Nova International
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/83400
-#EXTINF:-1 ,Nova International
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115488
+http://91.237.170.206:43210/channel/2c81959a/index.m3u8
+#EXTINF:-1 ,NOVA INTERNATIONAL
+http://185.188.188.235/live/novainternational/playlist.m3u8
 #EXTINF:-1 ,Nova Sport 1
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/279611
-#EXTINF:-1 ,Nova Sport 1 HD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115489
+http://91.237.170.206:43210/channel/2a497e91/index.m3u8
+#EXTINF:-1 ,NOVA SPORT 1
+http://185.188.188.235/live/novasport1/playlist.m3u8
 #EXTINF:-1 ,Nova Sport 2
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46718
-#EXTINF:-1 ,Nove Zamky
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/284652
-#EXTINF:-1 ,Óčko
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 ,Óčko Expres
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 ,Óčko Star
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 ,Praha TV
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/29200
-#EXTINF:-1 ,Prima
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/21100
-#EXTINF:-1 ,Prima Cool
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/21101
-#EXTINF:-1 ,Prima Cool HD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115491
-#EXTINF:-1 ,Prima HD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115492
-#EXTINF:-1 ,Prima Love
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/23339
-#EXTINF:-1 ,Prima Love
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115494
-#EXTINF:-1 ,Prima Max
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/21102
-#EXTINF:-1 ,Prima Plus
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/146952
-#EXTINF:-1 ,Prima Zoom
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/83397
-#EXTINF:-1 ,Prima Zoom HD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115496
-#EXTINF:-1 ,Rebel
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/121568
-#EXTINF:-1 ,REBEL
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115497
-#EXTINF:-1 ,Reduta
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/54239
-#EXTINF:-1 ,REGIO TV
-http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
-#EXTINF:-1 ,Retro Music TV
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115498
-#EXTINF:-1 ,RTVS 2
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/294456
+http://91.237.170.206:43210/channel/2a497e92/index.m3u8
+#EXTINF:-1 ,NOVA SPORT 2
+http://185.188.188.235/live/novasport2/playlist.m3u8
+#EXTINF:-1 ,Nova Sport 3
+http://91.237.170.206:43210/channel/2a497e93/index.m3u8
+#EXTINF:-1 ,NOVA SPORT 3
+http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1 ,Nova Sport 4
+http://91.237.170.206:43210/channel/2a497e94/index.m3u8
+#EXTINF:-1 ,NOVA SPORT 4
+http://185.188.188.235/live/novasport4/playlist.m3u8
+#EXTINF:-1 ,OCKO
+http://185.188.188.235/live/ocko/playlist.m3u8
+#EXTINF:-1 ,PAPRIKA
+http://185.188.188.235/live/paprika/playlist.m3u8
+#EXTINF:-1 ,PARAMOUNT
+http://185.188.188.235/live/paramount/playlist.m3u8
+#EXTINF:-1 ,Penthouse GOLD
+http://91.237.170.206:43210/channel/23d4f21b/index.m3u8
+#EXTINF:-1 ,Penthouse REALITY
+http://91.237.170.206:43210/channel/n2079d4b/index.m3u8
+#EXTINF:-1 ,Premier Sport 1
+http://91.237.170.206:43210/channel/435a5ad1/index.m3u8
+#EXTINF:-1 ,Premier Sport 2
+http://91.237.170.206:43210/channel/435a5ad2/index.m3u8
+#EXTINF:-1 ,PRIMA
+http://185.188.188.235/live/prima/playlist.m3u8
+#EXTINF:-1 ,Prima COOL
+http://91.237.170.206:43210/channel/n508abe32/index.m3u8
+#EXTINF:-1 ,PRIMA COOL
+http://185.188.188.235/live/primacool/playlist.m3u8
+#EXTINF:-1 ,Prima KRIMI
+http://91.237.170.206:43210/channel/3fa4fb19/index.m3u8
+#EXTINF:-1 ,PRIMA KRIMI
+http://185.188.188.235/live/primakrimi/playlist.m3u8
+#EXTINF:-1 ,Prima LOVE
+http://91.237.170.206:43210/channel/n5086a609/index.m3u8
+#EXTINF:-1 ,PRIMA LOVE
+http://185.188.188.235/live/primalove/playlist.m3u8
+#EXTINF:-1 ,Prima MAX
+http://91.237.170.206:43210/channel/n6df3d1c1/index.m3u8
+#EXTINF:-1 ,PRIMA MAX
+http://185.188.188.235/live/primamax/playlist.m3u8
+#EXTINF:-1 ,Prima PLUS
+http://91.237.170.206:43210/channel/n5084dfe1/index.m3u8
+#EXTINF:-1 ,PRIMA PLUS
+http://185.188.188.235/live/primaplus/playlist.m3u8
+#EXTINF:-1 ,Prima ZOOM
+http://91.237.170.206:43210/channel/n508049a8/index.m3u8
+#EXTINF:-1 ,PRIMA ZOOM
+http://185.188.188.235/live/primazoom/playlist.m3u8
+#EXTINF:-1 ,RELAX
+http://185.188.188.235/live/relax/playlist.m3u8
+#EXTINF:-1 ,RETRO
+http://185.188.188.235/live/retro/playlist.m3u8
+#EXTINF:-1 ,RiK
+http://91.237.170.206:43210/channel/1b914/index.m3u8
+#EXTINF:-1 ,RTVS 24
+http://91.237.170.206:43210/channel/5b2c2583/index.m3u8
 #EXTINF:-1 ,RTVS Sport
-https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=15
+http://91.237.170.206:43210/channel/n25edcb6d/index.m3u8
 #EXTINF:-1 ,Senzi
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/54217
-#EXTINF:-1 ,Skylink 7
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/294998
-#EXTINF:-1 ,Slagr Muzika
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/52584
-#EXTINF:-1 ,Slagr Original
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/280256
+http://91.237.170.206:43210/channel/684248b/index.m3u8
+#EXTINF:-1 ,Slager Muzika
+http://91.237.170.206:43210/channel/36b923e1/index.m3u8
+#EXTINF:-1 ,Slager Original
+http://91.237.170.206:43210/channel/n7f0fe5bb/index.m3u8
+#EXTINF:-1 ,Slager Premium
+http://91.237.170.206:43210/channel/38d95f63/index.m3u8
+#EXTINF:-1 ,Spektrum
+http://91.237.170.206:43210/channel/n7eab2c27/index.m3u8
+#EXTINF:-1 ,Spektrum Home
+http://91.237.170.206:43210/channel/n4a096f3a/index.m3u8
 #EXTINF:-1 ,Sport 1
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46724
-#EXTINF:-1 ,Sport 1 FHD
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/115502
+http://91.237.170.206:43210/channel/n7722e17b/index.m3u8
+#EXTINF:-1 ,SPORT 1
+http://185.188.188.235/live/sport1/playlist.m3u8
 #EXTINF:-1 ,Sport 2
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46719
-#EXTINF:-1 ,Sport 5
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46722
-#EXTINF:-1 ,Televize Natura
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/21114
-#EXTINF:-1 ,The Fishing & Hunting Channel
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/295043
-#EXTINF:-1 ,TV Barrandov
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/198625
-#EXTINF:-1 ,TV Joj
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/18408
+http://91.237.170.206:43210/channel/n7722e17a/index.m3u8
+#EXTINF:-1 ,SPORT 2
+http://185.188.188.235/live/sport2/playlist.m3u8
+#EXTINF:-1 ,TA3
+http://91.237.170.206:43210/channel/1bf66/index.m3u8
+#EXTINF:-1 ,TLC
+http://91.237.170.206:43210/channel/1c0eb/index.m3u8
+#EXTINF:-1 ,Travel Channel
+http://91.237.170.206:43210/channel/309bddfd/index.m3u8
+#EXTINF:-1 ,TravelXP
+http://91.237.170.206:43210/channel/4cc32f92/index.m3u8
 #EXTINF:-1 ,TV Paprika
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46721
-#EXTINF:-1 ,TV Praha
-https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
-#EXTINF:-1 ,tv vega
-http://88.212.11.205:5000/live/test_tv_vega_web_player/playlist.m3u8
-#EXTINF:-1 ,UK: Sky Cinema Action
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/1092
-#EXTINF:-1 ,UK: Sky Cinema Animation
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/1090
-#EXTINF:-1 ,UK: Sky Cinema Drama
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/1089
-#EXTINF:-1 ,UK: Sky Cinema Family
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/727
-#EXTINF:-1 ,UK: Sky Cinema Greats
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/1087
-#EXTINF:-1 ,UK: Sky Cinema Hits
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/1086
-#EXTINF:-1 ,UK: Sky Cinema Premiere
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/1085
-#EXTINF:-1 ,UK: Sky Cinema sci-fi Horror
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/725
-#EXTINF:-1 ,UK: Sky Cinema Select
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/726
-#EXTINF:-1 ,US: Starz
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/12044
-#EXTINF:-1 ,US: Starz Cinema
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/767
-#EXTINF:-1 ,US: Starz Comedy
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/12040
-#EXTINF:-1 ,US: Starz East
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/6302
-#EXTINF:-1 ,US: Starz Edge
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/2357
-#EXTINF:-1 ,US: Starz Encore
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/38500
-#EXTINF:-1 ,US: Starz Encore Action
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/30773
-#EXTINF:-1 ,US: Starz Encore Classic
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/25816
-#EXTINF:-1 ,US: Starz Encore Family
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/47926
-#EXTINF:-1 ,US: Starz Encore Suspense
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/38501
-#EXTINF:-1 ,US: Starz Encore Western
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/47928
-#EXTINF:-1 ,US: Starz In Black
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/15056
-#EXTINF:-1 ,US: Starz In Black West
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/200114
-#EXTINF:-1 ,US: Starz Kids & Family
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/15052
-#EXTINF:-1 ,US: Starzplay 1
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297608
-#EXTINF:-1 ,US: Starzplay 10
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297617
-#EXTINF:-1 ,US: Starzplay 11
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297618
-#EXTINF:-1 ,US: Starzplay 12
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297619
-#EXTINF:-1 ,US: Starzplay 13
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297620
-#EXTINF:-1 ,US: Starzplay 14
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297621
-#EXTINF:-1 ,US: Starzplay 15
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297622
-#EXTINF:-1 ,US: Starzplay 16
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297623
-#EXTINF:-1 ,US: Starzplay 17
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297624
-#EXTINF:-1 ,US: StarzPlay 2
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297609
-#EXTINF:-1 ,US: Starzplay 3
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297610
-#EXTINF:-1 ,US: Starzplay 4
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297611
-#EXTINF:-1 ,US: Starzplay 5
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297612
-#EXTINF:-1 ,US: Starzplay 6
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297613
-#EXTINF:-1 ,US: Starzplay 7
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297614
-#EXTINF:-1 ,US: Starzplay 8
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297615
-#EXTINF:-1 ,US: Starzplay 9
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/297616
-#EXTINF:-1 ,Viasat Explore
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/83403
+http://91.237.170.206:43210/channel/n2a6844b2/index.m3u8
+#EXTINF:-1 ,VIASAT EXPLORE
+http://185.188.188.235/live/viasatexplore/playlist.m3u8
+#EXTINF:-1 ,Viasat Explorer
+http://91.237.170.206:43210/channel/1511a247/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46725
+http://91.237.170.206:43210/channel/n50bfc674/index.m3u8
+#EXTINF:-1 ,VIASAT HISTORY
+http://185.188.188.235/live/viasathistory/playlist.m3u8
 #EXTINF:-1 ,Viasat Nature
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/46727
-#EXTINF:-1 ,Východočeská TV
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/296310
-#EXTINF:-1 ,Wau TV
-http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/18431
+http://91.237.170.206:43210/channel/n22185751/index.m3u8
+#EXTINF:-1 ,VIASAT NATURE
+http://185.188.188.235/live/viasatnature/playlist.m3u8
+#EXTINF:-1 ,Wau
+http://91.237.170.206:43210/channel/1caeb/index.m3u8
+#EXTINF:-1 ,WAU
+http://185.188.188.235/live/wau/playlist.m3u8
