@@ -1,314 +1,221 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/3viale/home/main/guide.xml"
-#EXTINF:-1 ,360 TuneBOX
-http://91.237.170.206:43210/channel/n3fc0c020/index.m3u8
-#EXTINF:-1 ,AMC
-http://185.188.188.235/live/amc/playlist.m3u8
-#EXTINF:-1 ,Animal Planet
-http://91.237.170.206:43210/channel/25ffd83c/index.m3u8
-#EXTINF:-1 ,AXN
-http://185.188.188.235/live/axn/playlist.m3u8
-#EXTINF:-1 ,AXN BLACK
-http://185.188.188.235/live/axnblack/playlist.m3u8
-#EXTINF:-1 ,AXN WHITE
-http://185.188.188.235/live/axnwhite/playlist.m3u8
-#EXTINF:-1 ,BARRANDOV
-http://185.188.188.235/live/barrandov/playlist.m3u8
-#EXTINF:-1 ,Blue Hustler
-http://91.237.170.206:43210/channel/2eecd165/index.m3u8
-#EXTINF:-1 ,CANAL+ Sport 1
-http://91.237.170.206:43210/channel/n131bae0b/index.m3u8
-#EXTINF:-1 ,CANAL+ Sport 2
-http://91.237.170.206:43210/channel/n131bae0a/index.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-http://185.188.188.235/live/cartoonnetwork/playlist.m3u8
-#EXTINF:-1 ,Cinemax
-http://91.237.170.206:43210/channel/2e736ba7/index.m3u8
-#EXTINF:-1 ,Cinemax2
-http://91.237.170.206:43210/channel/n6005f695/index.m3u8
-#EXTINF:-1 ,Crime Investigation
-http://91.237.170.206:43210/channel/1ae7c854/index.m3u8
-#EXTINF:-1 ,CS Film
-http://91.237.170.206:43210/channel/3b391f34/index.m3u8
-#EXTINF:-1 ,CS FILM
-http://185.188.188.235/live/csfilm/playlist.m3u8
-#EXTINF:-1 ,CS History
-http://91.237.170.206:43210/channel/468a1ce4/index.m3u8
-#EXTINF:-1 ,CS Mystery
-http://91.237.170.206:43210/channel/6a56a98f/index.m3u8
-#EXTINF:-1 ,CS MYSTERY
-http://185.188.188.235/live/csmystery/playlist.m3u8
-#EXTINF:-1 ,CT 1
-http://185.188.188.235/live/ct1/playlist.m3u8
-#EXTINF:-1 ,CT 2
-http://185.188.188.235/live/ct2/playlist.m3u8
-#EXTINF:-1 ,CT 24
-http://185.188.188.235/live/ct24/playlist.m3u8
-#EXTINF:-1 ,CT 24
-http://91.237.170.206:43210/channel/5a85051/index.m3u8
-#EXTINF:-1 ,CT Sport
-http://91.237.170.206:43210/channel/618b6f05/index.m3u8
-#EXTINF:-1 ,CT SPORT
-http://185.188.188.235/live/ctsport/playlist.m3u8
-#EXTINF:-1 ,DajTO
-http://91.237.170.206:43210/channel/5aee2c8/index.m3u8
-#EXTINF:-1 ,DISCOVERY
-http://185.188.188.235/live/discovery/playlist.m3u8
-#EXTINF:-1 ,Discovery Central
-http://91.237.170.206:43210/channel/734a5f05/index.m3u8
-#EXTINF:-1 ,Discovery ID Xtra
-http://91.237.170.206:43210/channel/n554e6460/index.m3u8
-#EXTINF:-1 ,Discovery Science
-http://91.237.170.206:43210/channel/n4208f40c/index.m3u8
-#EXTINF:-1 ,Disney
-http://91.237.170.206:43210/channel/n4f5dcdac/index.m3u8
-#EXTINF:-1 ,DISNEY CHANNEL
-http://185.188.188.235/live/disneychannel/playlist.m3u8
-#EXTINF:-1 ,DocuBOX
-http://91.237.170.206:43210/channel/6d02d66e/index.m3u8
-#EXTINF:-1 ,Doma
-http://91.237.170.206:43210/channel/2f235f/index.m3u8
-#EXTINF:-1 ,Dorcel
-http://91.237.170.206:43210/channel/n4f09de5d/index.m3u8
-#EXTINF:-1 ,DUCK TV
-http://185.188.188.235/live/ducktv/playlist.m3u8
-#EXTINF:-1 ,duckTV
-http://91.237.170.206:43210/channel/n4ebc0305/index.m3u8
-#EXTINF:-1 ,Dvojka
-http://91.237.170.206:43210/channel/n4ea87bfd/index.m3u8
-#EXTINF:-1 ,Epic Drama
-http://91.237.170.206:43210/channel/n745fee74/index.m3u8
-#EXTINF:-1 ,EroX
-http://91.237.170.206:43210/channel/2fa356/index.m3u8
-#EXTINF:-1 ,EroXXX
-http://91.237.170.206:43210/channel/n4d2bcb2a/index.m3u8
-#EXTINF:-1 ,EUROSPORT
-http://185.188.188.235/live/eurosport/playlist.m3u8
-#EXTINF:-1 ,EuroSport 1
-http://91.237.170.206:43210/channel/n23bc508/index.m3u8
-#EXTINF:-1 ,EuroSport 2
-http://91.237.170.206:43210/channel/n23bc507/index.m3u8
-#EXTINF:-1 ,EUROSPORT 2
-http://185.188.188.235/live/eurosport2/playlist.m3u8
-#EXTINF:-1 ,FILM BOX
-http://185.188.188.235/live/filmbox/playlist.m3u8
-#EXTINF:-1 ,FILM BOX EXTRA
-http://185.188.188.235/live/filmboxextra/playlist.m3u8
-#EXTINF:-1 ,FILM BOX FAMILY
-http://185.188.188.235/live/filmboxfamily/playlist.m3u8
-#EXTINF:-1 ,FILM BOX PREMIUM
-http://185.188.188.235/live/filmboxpremium/playlist.m3u8
-#EXTINF:-1 ,FILM BOX STARS
-http://185.188.188.235/live/filmboxstars/playlist.m3u8
-#EXTINF:-1 ,FILM EUROPE
-http://185.188.188.235/live/filmeurope/playlist.m3u8
-#EXTINF:-1 ,Film+
-http://91.237.170.206:43210/channel/5cebb27/index.m3u8
-#EXTINF:-1 ,FilmBox
-http://91.237.170.206:43210/channel/n32f29639/index.m3u8
-#EXTINF:-1 ,FilmBox Extra
-http://91.237.170.206:43210/channel/n270a9f89/index.m3u8
-#EXTINF:-1 ,FilmBox Premium
-http://91.237.170.206:43210/channel/n540ee302/index.m3u8
-#EXTINF:-1 ,FilmBox Stars
-http://91.237.170.206:43210/channel/n26476f38/index.m3u8
-#EXTINF:-1 ,HBO
-http://91.237.170.206:43210/channel/192b5/index.m3u8
-#EXTINF:-1 ,HBO 1
-http://185.188.188.235/live/hbo/playlist.m3u8
-#EXTINF:-1 ,HBO 2
-http://185.188.188.235/live/hbo2/playlist.m3u8
-#EXTINF:-1 ,HBO2
-http://91.237.170.206:43210/channel/30c41d/index.m3u8
-#EXTINF:-1 ,HBO3
-http://91.237.170.206:43210/channel/30c41e/index.m3u8
-#EXTINF:-1 ,History CZ
-http://91.237.170.206:43210/channel/74496783/index.m3u8
-#EXTINF:-1 ,InfoKanal
-http://91.237.170.206:43210/channel/4a09ec15/index.m3u8
-#EXTINF:-1 ,Jednotka
-http://91.237.170.206:43210/channel/n6d071d80/index.m3u8
-#EXTINF:-1 ,JIMJAM
-http://185.188.188.235/live/jimjam/playlist.m3u8
-#EXTINF:-1 ,JOJ
-http://91.237.170.206:43210/channel/19bc5/index.m3u8
-#EXTINF:-1 ,JOJ 24
-http://91.237.170.206:43210/channel/n44d16f83/index.m3u8
-#EXTINF:-1 ,JOJ Cinema
-http://91.237.170.206:43210/channel/n40fc1854/index.m3u8
-#EXTINF:-1 ,JOJ Family
-http://91.237.170.206:43210/channel/n3c4eafe1/index.m3u8
-#EXTINF:-1 ,JOJ Plus
-http://91.237.170.206:43210/channel/n56168aeb/index.m3u8
-#EXTINF:-1 ,JOJ Sport
-http://91.237.170.206:43210/channel/n6c8ed0a7/index.m3u8
-#EXTINF:-1 ,KINO BARRANDOV
-http://185.188.188.235/live/kinobarrandov/playlist.m3u8
-#EXTINF:-1 ,LaLa
-http://91.237.170.206:43210/channel/3291aa/index.m3u8
-#EXTINF:-1 ,LeoTV
-http://91.237.170.206:43210/channel/6218318/index.m3u8
-#EXTINF:-1 ,Love Nature
-http://91.237.170.206:43210/channel/6dbf3915/index.m3u8
-#EXTINF:-1 ,Markiza
-http://91.237.170.206:43210/channel/32060363/index.m3u8
-#EXTINF:-1 ,Markiza Krimi
-http://91.237.170.206:43210/channel/79f4fe01/index.m3u8
-#EXTINF:-1 ,MiniMax
-http://91.237.170.206:43210/channel/3f738dad/index.m3u8
-#EXTINF:-1 ,MINIMAX
-http://185.188.188.235/live/minimax/playlist.m3u8
-#EXTINF:-1 ,Mnam TV
-http://91.237.170.206:43210/channel/474549f5/index.m3u8
-#EXTINF:-1 ,Mnau TV
-http://91.237.170.206:43210/channel/4748eced/index.m3u8
-#EXTINF:-1 ,Nat Geo
-http://91.237.170.206:43210/channel/66e64bd2/index.m3u8
-#EXTINF:-1 ,Nat Geo Wild
-http://91.237.170.206:43210/channel/5ca4e758/index.m3u8
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC
-http://185.188.188.235/live/natgeo/playlist.m3u8
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC WILD
-http://185.188.188.235/live/natgeowild/playlist.m3u8
-#EXTINF:-1 ,Nick Jr
-http://91.237.170.206:43210/channel/73be8f25/index.m3u8
-#EXTINF:-1 ,Nickelodeon
-http://91.237.170.206:43210/channel/n749b29fb/index.m3u8
-#EXTINF:-1 ,NICKELODEON
-http://185.188.188.235/live/nickelodeon/playlist.m3u8
-#EXTINF:-1 ,NICKJR
-http://185.188.188.235/live/nickjr/playlist.m3u8
-#EXTINF:-1 ,NICKTOONS
-http://185.188.188.235/live/nicktoons/playlist.m3u8
-#EXTINF:-1 ,NOE
-http://185.188.188.235/live/noe/playlist.m3u8
-#EXTINF:-1 ,NOVA
-http://185.188.188.235/live/nova/playlist.m3u8
-#EXTINF:-1 ,Nova Action
-http://91.237.170.206:43210/channel/n1e0f1356/index.m3u8
-#EXTINF:-1 ,Nova Cinema
-http://91.237.170.206:43210/channel/n1a539e9b/index.m3u8
-#EXTINF:-1 ,NOVA CINEMA
-http://185.188.188.235/live/novacinema/playlist.m3u8
-#EXTINF:-1 ,Nova Fun
-http://91.237.170.206:43210/channel/6157d38b/index.m3u8
-#EXTINF:-1 ,NOVA FUN
-http://185.188.188.235/live/novafun/playlist.m3u8
-#EXTINF:-1 ,NOVA GOLD
-http://185.188.188.235/live/novagold/playlist.m3u8
-#EXTINF:-1 ,Nova International
-http://91.237.170.206:43210/channel/2c81959a/index.m3u8
-#EXTINF:-1 ,NOVA INTERNATIONAL
-http://185.188.188.235/live/novainternational/playlist.m3u8
-#EXTINF:-1 ,Nova Sport 1
-http://91.237.170.206:43210/channel/2a497e91/index.m3u8
-#EXTINF:-1 ,NOVA SPORT 1
-http://185.188.188.235/live/novasport1/playlist.m3u8
-#EXTINF:-1 ,Nova Sport 2
-http://91.237.170.206:43210/channel/2a497e92/index.m3u8
-#EXTINF:-1 ,NOVA SPORT 2
-http://185.188.188.235/live/novasport2/playlist.m3u8
-#EXTINF:-1 ,Nova Sport 3
-http://91.237.170.206:43210/channel/2a497e93/index.m3u8
-#EXTINF:-1 ,NOVA SPORT 3
-http://185.188.188.235/live/novasport3/playlist.m3u8
-#EXTINF:-1 ,Nova Sport 4
-http://91.237.170.206:43210/channel/2a497e94/index.m3u8
-#EXTINF:-1 ,NOVA SPORT 4
-http://185.188.188.235/live/novasport4/playlist.m3u8
-#EXTINF:-1 ,OCKO
-http://185.188.188.235/live/ocko/playlist.m3u8
-#EXTINF:-1 ,PAPRIKA
-http://185.188.188.235/live/paprika/playlist.m3u8
-#EXTINF:-1 ,PARAMOUNT
-http://185.188.188.235/live/paramount/playlist.m3u8
-#EXTINF:-1 ,Penthouse GOLD
-http://91.237.170.206:43210/channel/23d4f21b/index.m3u8
-#EXTINF:-1 ,Penthouse REALITY
-http://91.237.170.206:43210/channel/n2079d4b/index.m3u8
-#EXTINF:-1 ,Premier Sport 1
-http://91.237.170.206:43210/channel/435a5ad1/index.m3u8
-#EXTINF:-1 ,Premier Sport 2
-http://91.237.170.206:43210/channel/435a5ad2/index.m3u8
-#EXTINF:-1 ,PRIMA
-http://185.188.188.235/live/prima/playlist.m3u8
-#EXTINF:-1 ,Prima COOL
-http://91.237.170.206:43210/channel/n508abe32/index.m3u8
-#EXTINF:-1 ,PRIMA COOL
-http://185.188.188.235/live/primacool/playlist.m3u8
-#EXTINF:-1 ,Prima KRIMI
-http://91.237.170.206:43210/channel/3fa4fb19/index.m3u8
-#EXTINF:-1 ,PRIMA KRIMI
-http://185.188.188.235/live/primakrimi/playlist.m3u8
-#EXTINF:-1 ,Prima LOVE
-http://91.237.170.206:43210/channel/n5086a609/index.m3u8
-#EXTINF:-1 ,PRIMA LOVE
-http://185.188.188.235/live/primalove/playlist.m3u8
-#EXTINF:-1 ,Prima MAX
-http://91.237.170.206:43210/channel/n6df3d1c1/index.m3u8
-#EXTINF:-1 ,PRIMA MAX
-http://185.188.188.235/live/primamax/playlist.m3u8
-#EXTINF:-1 ,Prima PLUS
-http://91.237.170.206:43210/channel/n5084dfe1/index.m3u8
-#EXTINF:-1 ,PRIMA PLUS
-http://185.188.188.235/live/primaplus/playlist.m3u8
-#EXTINF:-1 ,Prima ZOOM
-http://91.237.170.206:43210/channel/n508049a8/index.m3u8
-#EXTINF:-1 ,PRIMA ZOOM
-http://185.188.188.235/live/primazoom/playlist.m3u8
-#EXTINF:-1 ,RELAX
-http://185.188.188.235/live/relax/playlist.m3u8
-#EXTINF:-1 ,RETRO
-http://185.188.188.235/live/retro/playlist.m3u8
-#EXTINF:-1 ,RiK
-http://91.237.170.206:43210/channel/1b914/index.m3u8
-#EXTINF:-1 ,RTVS 24
-http://91.237.170.206:43210/channel/5b2c2583/index.m3u8
-#EXTINF:-1 ,RTVS Sport
-http://91.237.170.206:43210/channel/n25edcb6d/index.m3u8
-#EXTINF:-1 ,Senzi
-http://91.237.170.206:43210/channel/684248b/index.m3u8
-#EXTINF:-1 ,Slager Muzika
-http://91.237.170.206:43210/channel/36b923e1/index.m3u8
-#EXTINF:-1 ,Slager Original
-http://91.237.170.206:43210/channel/n7f0fe5bb/index.m3u8
-#EXTINF:-1 ,Slager Premium
-http://91.237.170.206:43210/channel/38d95f63/index.m3u8
-#EXTINF:-1 ,Spektrum
-http://91.237.170.206:43210/channel/n7eab2c27/index.m3u8
-#EXTINF:-1 ,Spektrum Home
-http://91.237.170.206:43210/channel/n4a096f3a/index.m3u8
-#EXTINF:-1 ,Sport 1
-http://91.237.170.206:43210/channel/n7722e17b/index.m3u8
-#EXTINF:-1 ,SPORT 1
-http://185.188.188.235/live/sport1/playlist.m3u8
-#EXTINF:-1 ,Sport 2
-http://91.237.170.206:43210/channel/n7722e17a/index.m3u8
-#EXTINF:-1 ,SPORT 2
-http://185.188.188.235/live/sport2/playlist.m3u8
-#EXTINF:-1 ,TA3
-http://91.237.170.206:43210/channel/1bf66/index.m3u8
-#EXTINF:-1 ,TLC
-http://91.237.170.206:43210/channel/1c0eb/index.m3u8
-#EXTINF:-1 ,Travel Channel
-http://91.237.170.206:43210/channel/309bddfd/index.m3u8
-#EXTINF:-1 ,TravelXP
-http://91.237.170.206:43210/channel/4cc32f92/index.m3u8
-#EXTINF:-1 ,TV Paprika
-http://91.237.170.206:43210/channel/n2a6844b2/index.m3u8
-#EXTINF:-1 ,VIASAT EXPLORE
-http://185.188.188.235/live/viasatexplore/playlist.m3u8
-#EXTINF:-1 ,Viasat Explorer
-http://91.237.170.206:43210/channel/1511a247/index.m3u8
-#EXTINF:-1 ,Viasat History
-http://91.237.170.206:43210/channel/n50bfc674/index.m3u8
-#EXTINF:-1 ,VIASAT HISTORY
-http://185.188.188.235/live/viasathistory/playlist.m3u8
-#EXTINF:-1 ,Viasat Nature
-http://91.237.170.206:43210/channel/n22185751/index.m3u8
-#EXTINF:-1 ,VIASAT NATURE
-http://185.188.188.235/live/viasatnature/playlist.m3u8
-#EXTINF:-1 ,Wau
-http://91.237.170.206:43210/channel/1caeb/index.m3u8
-#EXTINF:-1 ,WAU
-http://185.188.188.235/live/wau/playlist.m3u8
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Prima PLUS HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257888
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Filmbox
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257889
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Filmbox Premium HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257890
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Film Europe+ HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257891
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Filmbox Stars
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257892
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Paramount Network
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257893
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",CS Mystery
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257894
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",JOJ Cinema HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257895
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",CT 1 HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257896
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Nova 2 HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257897
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Boomerang CZ
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257898
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Prima MAX HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257900
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",AXN CZ
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257902
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",AMC
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257903
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",CT :D/art HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257904
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Skylink 7
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257907
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Nickelodeon CZ
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257909
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Nova Sport 2 HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257914
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Cartoon Network CZ
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257915
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Nick Jr Czech
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257916
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Mnam TV
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257917
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Film Europe HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257918
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",HBO HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257919
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",HBO3 HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257920
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Spektrum HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257921
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Love Nature HD CZ
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257922
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Film+ HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257930
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Stingray CMusic CZ
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257931
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",MTV Europe CZ
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257936
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",Hobby TV
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/257937
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",CT 1 HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314777
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",TV JOJ HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314782
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",AXN
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314783
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",BARRANDOV PLUS
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314784
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",brava
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314785
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",CS FILM
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314786
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",CS MINI/CS FILM/HORROR FILM
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314787
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",CT 24
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314788
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",CZ
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314789
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",DAITO
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314790
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",DOMA
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314791
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",FILM
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314793
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",FILM BOX
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314794
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",FILMBOX PLUS
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314795
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",FINE LIVING
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314796
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",HBO
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314797
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",HBO 2
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314798
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NOVA ACTION
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314805
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NOVA CINEMA
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314806
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NOVA FHD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314807
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NOVA GOLD HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314808
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NOVA HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314809
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NOVA INTERNATIONAL
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314810
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",PRIMA
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314811
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",PRIMA COOL
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314812
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",PRIMA LOVE
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314813
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",PRIMA MAX
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314814
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",PRIMA PLUS
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314815
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",PRIMA ZOOM
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314816
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",REBEL
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314817
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",RETRO
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314818
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",SMICHOV
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314819
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",SPEKTRUM HOME
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314821
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",STINGRAY BRAVA
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314822
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",TV BARRANDOV
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314823
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",WAU
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314824
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",DISCOVERY SCIENCE
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314826
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",DISNEY CHANNEL
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314827
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",HISTORY HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314828
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NAT GEO
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314829
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NAT GEO WILD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314830
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",DUCK
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314831
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",MINIMAX
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314832
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",MNAM TV
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314833
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",EUROSPORT 1
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314834
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",EUROSPORT 2
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314835
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",GOLF CHANNEL
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314836
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NOVA SPORT 1 HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314837
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",NOVA +1 HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314838
+#EXTINF:-1 group-title="CZ | CZECH REPUBLIC",SPORT 2
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/314839
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Cinema HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388542
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Comedy HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388543
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Edge HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388544
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Action HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388545
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Black HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388546
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Classic HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388547
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Espanol HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388548
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Family HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388549
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388550
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Suspense HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388551
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Westerns HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388552
+#EXTINF:-1 group-title="US | UNITED STATES",Starz HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388553
+#EXTINF:-1 group-title="US | UNITED STATES",STARZ IN BLACK HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388554
+#EXTINF:-1 group-title="US | UNITED STATES",Starz Kids & Family HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388555
+#EXTINF:-1 group-title="US | UNITED STATES",Starz West HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388556
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="https://imagizer.imageshack.com/img924/9805/urezrr.png",DE-Kabel: Sky Cinema Action HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260115
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="https://imagizer.imageshack.com/img922/8403/nROfS7.png",DE-Kabel: Sky Cinema Best Of HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260116
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="https://imagizer.imageshack.com/img923/1408/oxlVTJ.png",DE-Kabel: Sky Cinema Classics FHD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260117
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="https://imagizer.imageshack.com/img924/7443/d5ER0G.png",DE-Kabel: Sky Cinema Family HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260118
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.CINEMA.FUN.png",DE-Kabel: Sky Cinema Fun HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260119
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="https://imagizer.imageshack.com/img922/9243/TwKdOI.png",DE-Kabel: Sky Cinema Thriller HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260120
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png",DE-Kabel: Sky Cinema Premieren HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260121
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png",DE-Kabel: Sky Cinema Premieren +24
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260122
+#EXTINF:-1 group-title="DE | GERMANY KABEL" tvg-logo="https://imagizer.imageshack.com/img924/9248/Em2mOD.png",DE-Kabel: Sky Cinema Special HD
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/260123
+#EXTINF:-1 group-title="DE | HEVC" tvg-logo="https://imagizer.imageshack.com/img924/9805/urezrr.png",DE: Sky Cinema Action HEVC
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/96333
+#EXTINF:-1 group-title="DE | HEVC" tvg-logo="https://imagizer.imageshack.com/img922/8403/nROfS7.png",DE: Sky Cinema Best Of HEVC
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/96334
+#EXTINF:-1 group-title="DE | HEVC" tvg-logo="https://imagizer.imageshack.com/img924/7443/d5ER0G.png",DE: Sky Cinema Family HEVC
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/96335
+#EXTINF:-1 group-title="DE | HEVC" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png",DE: Sky Cinema Premieren HEVC
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/96337
+#EXTINF:-1 group-title="DE | HEVC" tvg-logo="https://imagizer.imageshack.com/img924/9248/Em2mOD.png",DE: Sky Cinema Special HEVC
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/96338
+#EXTINF:-1 group-title="DE | HEVC" tvg-logo="https://imagizer.imageshack.com/img922/9243/TwKdOI.png",DE: Sky Cinema Thriller HEVC
+http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/96339
