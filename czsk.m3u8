@@ -51,48 +51,18 @@ http://195.181.169.162/US_Nicktoons/index.m3u8
 http://195.181.169.162/US_Science/index.m3u8
 #EXTINF:-1 ,SHOWTIME EAST
 http://195.181.169.162/US_Showtime_HD_East/index.m3u8
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Cinema HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388542
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Comedy HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388543
 #EXTINF:-1 ,STARZ East
 http://195.181.169.162/US_STARZ_East/index.m3u8
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Edge HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388544
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Action HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388545
 #EXTINF:-1 ,STARZ Encore Action HD
 http://195.181.169.162/US_STARZ_Encore_Action_HD/index.m3u8
 #EXTINF:-1 ,STARZ ENCORE Black
 http://195.181.169.162/US_STARZ_ENCORE_Black/index.m3u8
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Black HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388546
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Classic HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388547
 #EXTINF:-1 ,STARZ Encore East
 http://195.181.169.162/US_STARZ_Encore_East/index.m3u8
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Espanol HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388548
 #EXTINF:-1 ,STARZ ENCORE Family
 http://195.181.169.162/US_STARZ_ENCORE_Family/index.m3u8
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Family HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388549
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388550
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Suspense HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388551
 #EXTINF:-1 ,STARZ ENCORE Westerns
 http://195.181.169.162/US_STARZ_ENCORE_Westerns/index.m3u8
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Encore Westerns HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388552
-#EXTINF:-1 group-title="US | UNITED STATES",Starz HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388553
-#EXTINF:-1 group-title="US | UNITED STATES",STARZ IN BLACK HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388554
-#EXTINF:-1 group-title="US | UNITED STATES",Starz Kids & Family HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388555
-#EXTINF:-1 group-title="US | UNITED STATES",Starz West HD
-http://tr.bosstv.live:8080/sahra.yildiz/yez3deG8tK/388556
 #EXTINF:-1 ,SYFY
 http://195.181.169.162/US_Syfy/index.m3u8
 #EXTINF:-1 ,TBS
