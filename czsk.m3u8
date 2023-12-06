@@ -1,75 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,AMC
-http://195.181.169.162/US_AMC/index.m3u8
-#EXTINF:-1 ,ANIMAL PLANET
-http://195.181.169.162/US_Animal_Planet/index.m3u8
 #EXTINF:-1 ,animal_planet_hd
 http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1 ,BBC AMERICA
-http://195.181.169.162/US_BBC_America/index.m3u8
 #EXTINF:-1 ,brazzers_hd
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 ,CINEMAX EAST
-http://195.181.169.162/US_Cinemax_East/index.m3u8
 #EXTINF:-1 ,cinemax_hd
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,cinemax2_hd
 http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 ,DISCOVERY
-http://195.181.169.162/US_Discovery/index.m3u8
-#EXTINF:-1 ,DISCOVERY LIFE
-http://195.181.169.162/US_Discovery_Life/index.m3u8
-#EXTINF:-1 ,DIY NETWORK
-http://195.181.169.162/US_DIY_Network/index.m3u8
-#EXTINF:-1 ,ESPN
-http://195.181.169.162/US_ESPN/index.m3u8
-#EXTINF:-1 ,ESPN 2
-http://195.181.169.162/US_ESPN_2/index.m3u8
-#EXTINF:-1 ,FYI
-http://195.181.169.162/US_FYI/index.m3u8
-#EXTINF:-1 ,HBO EAST
-http://195.181.169.162/US_HBO_East/index.m3u8
-#EXTINF:-1 ,HBO Family East
-http://195.181.169.162/US_HBO_Family_East/index.m3u8
-#EXTINF:-1 ,HGTV
-http://195.181.169.162/US_HGTV/index.m3u8
-#EXTINF:-1 ,HISTORY
-http://195.181.169.162/US_HISTORY/index.m3u8
-#EXTINF:-1 ,Investigation Discovery
-http://195.181.169.162/US_Investigation_Discovery/index.m3u8
-#EXTINF:-1 ,MLB Network
-http://195.181.169.162/US_Boomerang/index.m3u8
-#EXTINF:-1 ,MTV
-http://195.181.169.162/US_MTV/index.m3u8
-#EXTINF:-1 ,NAT GEO WILD
-http://195.181.169.162/US_Nat_Geo_WILD/index.m3u8
-#EXTINF:-1 ,National Geographic
-http://195.181.169.162/US_National_Geographic_Channel/index.m3u8
-#EXTINF:-1 ,NICKTOONS
-http://195.181.169.162/US_Nicktoons/index.m3u8
-#EXTINF:-1 ,SCIENCE
-http://195.181.169.162/US_Science/index.m3u8
-#EXTINF:-1 ,SHOWTIME EAST
-http://195.181.169.162/US_Showtime_HD_East/index.m3u8
-#EXTINF:-1 ,STARZ East
-http://195.181.169.162/US_STARZ_East/index.m3u8
-#EXTINF:-1 ,STARZ Encore Action HD
-http://195.181.169.162/US_STARZ_Encore_Action_HD/index.m3u8
-#EXTINF:-1 ,STARZ ENCORE Black
-http://195.181.169.162/US_STARZ_ENCORE_Black/index.m3u8
-#EXTINF:-1 ,STARZ Encore East
-http://195.181.169.162/US_STARZ_Encore_East/index.m3u8
-#EXTINF:-1 ,STARZ ENCORE Family
-http://195.181.169.162/US_STARZ_ENCORE_Family/index.m3u8
-#EXTINF:-1 ,STARZ ENCORE Westerns
-http://195.181.169.162/US_STARZ_ENCORE_Westerns/index.m3u8
-#EXTINF:-1 ,SYFY
-http://195.181.169.162/US_Syfy/index.m3u8
-#EXTINF:-1 ,TBS
-http://195.181.169.162/US_TBS/index.m3u8
-#EXTINF:-1 ,TLC
-http://195.181.169.162/US_TLC/index.m3u8
-#EXTINF:-1 ,TRAVEL CHANNEL
-http://195.181.169.162/US_Travel_Channel/index.m3u8
-#EXTINF:-1 ,VH1
-http://195.181.169.162/US_VH1/index.m3u8
