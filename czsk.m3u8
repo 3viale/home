@@ -45,6 +45,14 @@ http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,Cinemax 2
 http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,HBO HD
+http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,HBO 2 HD
+http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,HBO 3 HD
+http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,TRAVEL CHANNEL HD
+http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png",FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/GyoWsNb.png",JOJ Family
