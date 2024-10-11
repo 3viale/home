@@ -1,5 +1,5 @@
 
-
+#EXTM3U catchup="flussonic"  url-tvg="https://epgx.site/epg.xml.gz" refresh="3600"
 #EXTINF:0 tvg-id="balkanika" tvg-logo="https://iptvx.one/picons/balkanika.png" tvg-rec="14", Балканика
 #EXTGRP:BG
 http://cdn.iptv11.com/2630/41842F824A010/video.m3u8
