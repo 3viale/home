@@ -1898,6 +1898,9 @@ http://cdn.iptv11.com/2448/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="football1-ua" tvg-logo="https://iptvx.one/picons/okko-sport.png" tvg-rec="14", Окко Sport HD
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/Football1HD--ua/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="football1-ua" tvg-logo="https://iptvx.one/picons/okko-sport.png" tvg-rec="14", Окко Футбол HD
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3890/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="setanta-ua" tvg-logo="https://iptvx.one/picons/setanta-sports.png" tvg-rec="14", Setanta Sports HD
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/SetantaSportsHD-ua/41842F824A010/video.m3u8
@@ -1919,6 +1922,15 @@ http://cdn.iptv11.com/3063/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="setanta1-lt" tvg-logo="https://iptvx.one/picons/setanta1-lt.png" tvg-rec="14", Setanta Sports 1 Lietuva
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/11913/41842F824A010/video.m3u8
+#EXTINF:0  tvg-logo="https://iptvx.one/picons/setanta-sports1.png" tvg-rec="14", Setanta Sports 1 HD GE
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3887/41842F824A010/video.m3u8
+#EXTINF:0  tvg-logo="https://iptvx.one/picons/setanta-sports2.png" tvg-rec="14", Setanta Sports 2 HD GE
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3888/41842F824A010/video.m3u8
+#EXTINF:0  tvg-logo="https://iptvx.one/picons/setanta-sports3.png" tvg-rec="14", Setanta Sports 3 HD GE
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3889/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv7236" tvg-logo="http://epg.it999.ru/img/7236.png" tvg-rec="14", Q Sport League
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/3061/41842F824A010/video.m3u8
@@ -3545,27 +3557,6 @@ http://cdn.iptv11.com/3677/41842F824A010/video.m3u8
 #EXTINF:0 , Eye Family
 #EXTGRP:Фильмовые
 http://cdn.iptv11.com/3678/41842F824A010/video.m3u8
-#EXTINF:0 , Relax Drama
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3679/41842F824A010/video.m3u8
-#EXTINF:0 , Relax Action
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3680/41842F824A010/video.m3u8
-#EXTINF:0 , Relax Comedy
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3681/41842F824A010/video.m3u8
-#EXTINF:0 , Relax Fantasy
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3682/41842F824A010/video.m3u8
-#EXTINF:0 , Relax Thriller
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3683/41842F824A010/video.m3u8
-#EXTINF:0 , Relax Horror
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3684/41842F824A010/video.m3u8
-#EXTINF:0 , Relax Russian
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3685/41842F824A010/video.m3u8
 #EXTINF:0 , VeleS 60FPS
 #EXTGRP:Фильмовые
 http://cdn.iptv11.com/3689/41842F824A010/video.m3u8
@@ -3830,42 +3821,6 @@ http://cdn.iptv11.com/3774/41842F824A010/video.m3u8
 #EXTINF:0 , Чебур ТВ - Космос FHD
 #EXTGRP:Фильмовые
 http://cdn.iptv11.com/3775/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-epoch" tvg-logo="https://iptvx.one/picons/skyhigh-epoch.png", SKY HIGH Epoch HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3776/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-heroes" tvg-logo="https://iptvx.one/picons/skyhigh-heroes.png", SKY HIGH Heroes HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3777/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-spirit" tvg-logo="https://iptvx.one/picons/skyhigh-spirit.png", SKY HIGH Spirit HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3778/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-series" tvg-logo="https://iptvx.one/picons/skyhigh-series.png", SKY HIGH Series HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3779/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-fresh-hdr" tvg-logo="https://iptvx.one/picons/skyhigh-fresh-hdr.png", SKY HIGH Fresh HDR
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3780/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-future" tvg-logo="https://iptvx.one/picons/skyhigh-future.png", SKY HIGH Future HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3781/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-fresh" tvg-logo="https://iptvx.one/picons/skyhigh-fresh.png", SKY HIGH Fresh HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3782/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-chbu" tvg-logo="https://iptvx.one/picons/skyhigh-chbu.png", SKY HIGH ЧБУ HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3784/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-russian" tvg-logo="https://iptvx.one/picons/skyhigh-russian.png", SKY HIGH Russian HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3785/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-noir" tvg-logo="https://iptvx.one/picons/skyhigh-noir.png", SKY HIGH NOIR HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3786/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-anime" tvg-logo="https://iptvx.one/picons/skyhigh-anime.png", SKY HIGH Anime HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3787/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="skyhigh-orig" tvg-logo="https://iptvx.one/picons/skyhigh-orig.png", SKY HIGH Orig HD
-#EXTGRP:Фильмовые
-http://cdn.iptv11.com/3790/41842F824A010/video.m3u8
 #EXTINF:0 , Чебур ТВ - Карапуз FHD
 #EXTGRP:Фильмовые
 http://cdn.iptv11.com/3788/41842F824A010/video.m3u8
@@ -5255,6 +5210,9 @@ http://cdn.iptv11.com/ViasatExplore/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="viasat-explore-cee" tvg-logo="https://iptvx.one/picons/viasat-explore.png" tvg-rec="14", Viasat Explore
 #EXTGRP:Познавательные
 http://cdn.iptv11.com/3589/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" tvg-rec="14", Viju History
+#EXTGRP:Познавательные
+http://cdn.iptv11.com/ViasatHistory/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" tvg-rec="14", Viju History HD
 #EXTGRP:Познавательные
 http://cdn.iptv11.com/208/41842F824A010/video.m3u8
@@ -6374,9 +6332,12 @@ http://cdn.iptv11.com/11863/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="lnk-lt" tvg-logo="https://iptvx.one/picons/lnk.png" tvg-rec="14", LNK LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11864/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="tv3-lt" tvg-logo="https://iptvx.one/picons/tv3-lt.png" tvg-rec="14", TV3 LT
+#EXTINF:0 tvg-id="tv3-lt" tvg-logo="https://iptvx.one/picons/tv3-lt.png" tvg-rec="14", TV3 HD LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11860/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="tv3-lt" tvg-logo="https://iptvx.one/picons/tv3-lt.png" tvg-rec="14", TV3 SD LT
+#EXTGRP:LT
+http://cdn.iptv11.com/11990/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv3-plus-lt" tvg-logo="https://iptvx.one/picons/tv3-plus-lt.png" tvg-rec="14", TV3 Plus
 #EXTGRP:LT
 http://cdn.iptv11.com/11865/41842F824A010/video.m3u8
@@ -7874,6 +7835,9 @@ http://cdn.iptv11.com/446/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv2584" tvg-logo="http://epg.it999.ru/img/2584.png" tvg-rec="14", Bakhoristan HD TJ
 #EXTGRP:TJ
 http://cdn.iptv11.com/447/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="iptv2584" tvg-logo="http://epg.it999.ru/img/2585.png" tvg-rec="14", Jahonnamo TJ
+#EXTGRP:TJ
+http://cdn.iptv11.com/448/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="moldova-1" tvg-logo="https://iptvx.one/picons/moldova-1.png" tvg-rec="14", Moldova 1 MD
 #EXTGRP:MD
 http://cdn.iptv11.com/563/41842F824A010/video.m3u8
@@ -8108,12 +8072,6 @@ http://cdn.iptv11.com/2346/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv5943" tvg-logo="http://epg.it999.ru/img/5943.png" tvg-rec="14", ArmToon
 #EXTGRP:ARM
 http://cdn.iptv11.com/2347/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="iptv5941" tvg-logo="http://epg.it999.ru/img/5941.png" tvg-rec="14", Armount
-#EXTGRP:ARM
-http://cdn.iptv11.com/2349/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Fortuna TV
-#EXTGRP:ARM
-http://cdn.iptv11.com/2353/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv5940" tvg-logo="http://epg.it999.ru/img/5940.png" tvg-rec="14", FreeNews
 #EXTGRP:ARM
 http://cdn.iptv11.com/2354/41842F824A010/video.m3u8
