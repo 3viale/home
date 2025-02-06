@@ -9743,6 +9743,15 @@ http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:0  tvg-rec="14", Canal+ Sport
 #EXTGRP:CZSK
 http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:0  tvg-rec="14", Sport 2
+#EXTGRP:CZSK
+http://oexgurl5.megogo.xyz/iptv/XWPTN8E8HVL48E/2557/index.m3u8
+#EXTINF:0  tvg-rec="14", Sport 1
+#EXTGRP:CZSK
+http://78.130.250.2:8023/play/a02u/index.m3u8
+#EXTINF:0  tvg-rec="14", Retro Music TV
+#EXTGRP:CZSK
+http://78.130.250.2:8023/play/a02r/index.m3u8
 
 
 #EXTINF:0 tvg-id="iptv6457" tvg-logo="http://epg.it999.ru/img/6457.png" tvg-rec="14", RAI 1 HD
