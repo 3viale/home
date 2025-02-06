@@ -292,3 +292,10 @@ http://cdn.iptv11.com/210/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Eurosport CZ
 #EXTGRP:CZSK
 http://cdn.iptv11.com/655/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Arena Sport 1
+#EXTGRP:CZSK
+http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:0  tvg-rec="14", Canal+ Sport
+#EXTGRP:CZSK
+http://78.130.250.2:8023/play/a02v/index.m3u8
+
