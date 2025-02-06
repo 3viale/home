@@ -1,7 +1,7 @@
 
 #EXTM3U catchup="flussonic"  url-tvg="https://iptvx.one/epg/epg.xml.gz" refresh="3600"
 #EXTINF:0 tvg-id="balkanika" tvg-logo="https://iptvx.one/picons/balkanika.png" tvg-rec="14", Балканика
-#EXTGRP:BG
+#EXTGRP:CZSK
 http://cdn.iptv11.com/2630/41842F824A010/video.m3u8
 
 #EXTINF:0  tvg-rec="14", Nova International HD CZ
@@ -280,3 +280,15 @@ http://cdn.iptv11.com/2777/41842F824A010/video.m3u8
 #EXTINF:0  tvg-logo="http://epg.it999.ru/img/3905.png" tvg-rec="14", Boomerang CZ
 #EXTGRP:CZSK
 http://cdn.iptv11.com/12778/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", FilmBox Extra CZ
+#EXTGRP:CZSK
+http://cdn.iptv11.com/3399/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", FilmBox Family CZ
+#EXTGRP:CZSK
+http://cdn.iptv11.com/3341/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Love Nature CZ
+#EXTGRP:CZSK
+http://cdn.iptv11.com/210/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Eurosport CZ
+#EXTGRP:CZSK
+http://cdn.iptv11.com/655/41842F824A010/video.m3u8
