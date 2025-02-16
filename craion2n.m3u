@@ -1364,6 +1364,15 @@ http://cdn.iptv11.com/2902/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Kino Comedy HD
 #EXTGRP:Украина
 http://cdn.iptv11.com/2903/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Твоє Кіно Action
+#EXTGRP:Украина
+http://cdn.iptv11.com/3959/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Твоє Кіно Хіт
+#EXTGRP:Украина
+http://cdn.iptv11.com/3960/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Твоє Кіно Relax
+#EXTGRP:Украина
+http://cdn.iptv11.com/3961/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="filmua-live" tvg-rec="14", FilmUA Live HD
 #EXTGRP:Украина
 http://cdn.iptv11.com/2890/41842F824A010/video.m3u8
@@ -1379,6 +1388,9 @@ http://cdn.iptv11.com/2893/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="cine-plus-hit-hd" tvg-rec="14", Cine+ Hit HD
 #EXTGRP:Украина
 http://cdn.iptv11.com/2894/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="Super+" tvg-rec="14", Super+
+#EXTGRP:Украина
+http://cdn.iptv11.com/3935/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png" tvg-rec="14", CNN
 #EXTGRP:Новости
 http://cdn.iptv11.com/CNNInternational/41842F824A010/video.m3u8
@@ -1931,6 +1943,9 @@ http://cdn.iptv11.com/3888/41842F824A010/video.m3u8
 #EXTINF:0  tvg-logo="https://iptvx.one/picons/setanta-sports3.png" tvg-rec="14", Setanta Sports 3 HD GE
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/3889/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Setanta Sports Premium HD
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3962/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv7236" tvg-logo="http://epg.it999.ru/img/7236.png" tvg-rec="14", Q Sport League
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/3061/41842F824A010/video.m3u8
@@ -1946,6 +1961,9 @@ http://cdn.iptv11.com/m1global/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="ufc" tvg-logo="https://iptvx.one/picons/ufc.png" tvg-rec="14", Удар HD
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/Udar/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="ufc" tvg-rec="14", UFC TV
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3953/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="sport1-ua" tvg-logo="https://iptvx.one/picons/sport1ua.png" tvg-rec="14", Спорт 1 UA
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/Sport1/41842F824A010/video.m3u8
@@ -2384,6 +2402,69 @@ http://cdn.iptv11.com/3620/41842F824A010/video.m3u8
 #EXTINF:0  tvg-logo="https://ip-tv.dev/images/ico/upl3.png" tvg-rec="14", Futbol TV
 #EXTGRP:Спортивные
 http://cdn.iptv11.com/3621/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Megogo Футбол 1 HD
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3936/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Megogo Футбол 2 HD
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3937/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Megogo Футбол 3 HD
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3938/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Megogo Футбол 4 HD
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3939/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Megogo Футбол 5 HD
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3940/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Megogo Гонг HD
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3950/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TNT Sports 1
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3941/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TNT Sports 2
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3942/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TNT Sports 3
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3943/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TNT Sports 4
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3944/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TNT Sports Ultimate 4K
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3968/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Canal+ Extra 1
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3945/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Canal+ Extra 2
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3946/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Canal+ Extra 3
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3947/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Canal+ Extra 4
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3948/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Canal+ 360
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3949/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TSN 1
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3963/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TSN 2
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3964/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TSN 3
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3965/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TSN 4
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3966/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TSN 5
+#EXTGRP:Спортивные
+http://cdn.iptv11.com/3967/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-rec="14", Viju TV1000
 #EXTGRP:Фильмовые
 http://cdn.iptv11.com/TV1000/41842F824A010/video.m3u8
@@ -6127,7 +6208,7 @@ http://cdn.iptv11.com/2980/41842F824A010/video.m3u8
 http://cdn.iptv11.com/2981/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", KISS
 #EXTGRP:Музыкальные
-http://cdn.iptv11.com/2982/41842F824A010/video.m3u8
+http://cdn.iptv11.com/675/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", M Live
 #EXTGRP:Музыкальные
 http://cdn.iptv11.com/2983/41842F824A010/video.m3u8
@@ -6323,15 +6404,24 @@ http://cdn.iptv11.com/3125/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="info-tv" tvg-logo="https://iptvx.one/picons/tvp-info.png" tvg-rec="14", Info TV
 #EXTGRP:LT
 http://cdn.iptv11.com/11869/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="lrt-kultura" tvg-logo="https://iptvx.one/picons/lrt-kultura.png" tvg-rec="14", LRT Plius
+#EXTINF:0 tvg-id="lrt-kultura" tvg-logo="https://iptvx.one/picons/lrt-kultura.png" tvg-rec="14", LRT HD Plius
 #EXTGRP:LT
 http://cdn.iptv11.com/11871/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="lrt-tv" tvg-logo="https://iptvx.one/picons/lrt-tv.png" tvg-rec="14", LRT Televizija LT
+#EXTINF:0 tvg-id="lrt-kultura" tvg-logo="https://iptvx.one/picons/lrt-kultura.png" tvg-rec="14", LRT SD Plius
+#EXTGRP:LT
+http://cdn.iptv11.com/118711/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="lrt-tv" tvg-logo="https://iptvx.one/picons/lrt-tv.png" tvg-rec="14", LRT Televizija HD LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11863/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="lnk-lt" tvg-logo="https://iptvx.one/picons/lnk.png" tvg-rec="14", LNK LT
+#EXTINF:0 tvg-id="lrt-tv" tvg-logo="https://iptvx.one/picons/lrt-tv.png" tvg-rec="14", LRT Televizija SD LT
+#EXTGRP:LT
+http://cdn.iptv11.com/118631/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="lnk-lt" tvg-logo="https://iptvx.one/picons/lnk.png" tvg-rec="14", LNK HD LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11864/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="lnk-lt" tvg-logo="https://iptvx.one/picons/lnk.png" tvg-rec="14", LNK SD LT
+#EXTGRP:LT
+http://cdn.iptv11.com/118641/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv3-lt" tvg-logo="https://iptvx.one/picons/tv3-lt.png" tvg-rec="14", TV3 HD LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11860/41842F824A010/video.m3u8
@@ -6341,39 +6431,66 @@ http://cdn.iptv11.com/11990/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv3-plus-lt" tvg-logo="https://iptvx.one/picons/tv3-plus-lt.png" tvg-rec="14", TV3 Plus
 #EXTGRP:LT
 http://cdn.iptv11.com/11865/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="lietuvos-ryto-televizija" tvg-logo="https://iptvx.one/picons/lietuvos-ryto-televizija.png" tvg-rec="14", Lietuvos Ryto TV
+#EXTINF:0 tvg-id="lietuvos-ryto-televizija" tvg-logo="https://iptvx.one/picons/lietuvos-ryto-televizija.png" tvg-rec="14", Lietuvos Ryto HD TV
 #EXTGRP:LT
 http://cdn.iptv11.com/11866/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="baltijos-lt" tvg-logo="https://iptvx.one/picons/btv.png" tvg-rec="14", BTV
 #EXTGRP:LT
 http://cdn.iptv11.com/11867/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="baltijos-lt" tvg-logo="https://iptvx.one/picons/btv.png" tvg-rec="14", BTV SD
+#EXTGRP:LT
+http://cdn.iptv11.com/118671/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv6-lt" tvg-logo="https://iptvx.one/picons/tv6-lt.png" tvg-rec="14", TV6 LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11861/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="tv6-lt" tvg-logo="https://iptvx.one/picons/tv6-lt.png" tvg-rec="14", TV6 SD LT
+#EXTGRP:LT
+http://cdn.iptv11.com/118611/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv1-lt" tvg-logo="https://iptvx.one/picons/tv1-lt.png" tvg-rec="14", TV1 LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11868/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="tv8-lt" tvg-logo="https://iptvx.one/picons/tv8-lt.png" tvg-rec="14", TV8
+#EXTINF:0 tvg-id="tv8-lt" tvg-logo="https://iptvx.one/picons/tv8-lt.png" tvg-rec="14", TV8 LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11862/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="tv8-lt" tvg-logo="https://iptvx.one/picons/tv8-lt.png" tvg-rec="14", TV8 SD LT
+#EXTGRP:LT
+http://cdn.iptv11.com/118621/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="delfi-tv" tvg-logo="https://iptvx.one/picons/delfi-tv.png" tvg-rec="14", Delfi TV
 #EXTGRP:LT
 http://cdn.iptv11.com/11872/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="sport1-lt" tvg-logo="https://iptvx.one/picons/sport1-lt.png" tvg-rec="14", Sport 1
+#EXTINF:0 tvg-id="delfi-tv" tvg-logo="https://iptvx.one/picons/delfi-tv.png" tvg-rec="14", Delfi SD TV
+#EXTGRP:LT
+http://cdn.iptv11.com/118721/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="sport1-lt" tvg-logo="https://iptvx.one/picons/sport1-lt.png" tvg-rec="14", Sport 1 HD LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11916/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="sport1-lt" tvg-logo="https://iptvx.one/picons/sport1-lt.png" tvg-rec="14", Sport 1 SD LT
+#EXTGRP:LT
+http://cdn.iptv11.com/119161/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tvplay-sports" tvg-logo="https://iptvx.one/picons/tvplay-sports.png" tvg-rec="14", Go3 Sport
 #EXTGRP:LT
 http://cdn.iptv11.com/11907/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="tvplay-sports" tvg-logo="https://iptvx.one/picons/tvplay-sports.png" tvg-rec="14", Go3 Sport SD
+#EXTGRP:LT
+http://cdn.iptv11.com/119071/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tvplay-sports-plus" tvg-logo="https://iptvx.one/picons/tvplay-sports-plus.png" tvg-rec="14", Go3 Sport 2
 #EXTGRP:LT
 http://cdn.iptv11.com/11908/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="tvplay-sports-plus" tvg-logo="https://iptvx.one/picons/tvplay-sports-plus.png" tvg-rec="14", Go3 Sport 2 SD
+#EXTGRP:LT
+http://cdn.iptv11.com/119081/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv3-sport-3" tvg-logo="https://iptvx.one/picons/tv3-sport-3.png" tvg-rec="14", Go3 Sport 3
 #EXTGRP:LT
 http://cdn.iptv11.com/11909/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="tv3-sport-3" tvg-logo="https://iptvx.one/picons/tv3-sport-3.png" tvg-rec="14", Go3 Sport 3 SD
+#EXTGRP:LT
+http://cdn.iptv11.com/119091/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv3-sport-open" tvg-logo="https://iptvx.one/picons/tv3-sport-open.png" tvg-rec="14", Go3 Sport Open LT
 #EXTGRP:LT
 http://cdn.iptv11.com/11875/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="tv3-sport-open" tvg-logo="https://iptvx.one/picons/tv3-sport-open.png" tvg-rec="14", Go3 Sport Open SD LT
+#EXTGRP:LT
+http://cdn.iptv11.com/118751/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="FibaTV" tvg-rec="14", FIBA TV
 #EXTGRP:LT
 http://cdn.iptv11.com/11912/41842F824A010/video.m3u8
@@ -6599,6 +6716,9 @@ http://cdn.iptv11.com/11808/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tv6-ee" tvg-logo="https://iptvx.one/picons/tv6-ee.png" tvg-rec="14", TV6 EE
 #EXTGRP:EE
 http://cdn.iptv11.com/11807/41842F824A010/video.m3u8
+#EXTINF:0 tvg-id="1p2-ee" tvg-logo="https://iptvx.one/picons/1p2-ee.png" tvg-rec="14", 1+2 EE
+#EXTGRP:EE
+http://cdn.iptv11.com/1710/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="super-rtl-hd" tvg-logo="http://epg.it999.ru/img/3116.png" tvg-rec="14", Super RTL HD DE
 #EXTGRP:DE
 http://cdn.iptv11.com/904/41842F824A010/video.m3u8
@@ -6839,9 +6959,6 @@ http://cdn.iptv11.com/1699/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", ID PL
 #EXTGRP:PL
 http://cdn.iptv11.com/1852/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="wydarzenia-24" tvg-logo="https://iptvx.one/picons/wydarzenia-24.png" tvg-rec="14", Wydarzenia 24 PL
-#EXTGRP:PL
-http://cdn.iptv11.com/1972/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="fightbox-hd" tvg-logo="https://iptvx.one/picons/fightbox-hd.png" tvg-rec="14", FightBox PL
 #EXTGRP:PL
 http://cdn.iptv11.com/1696/41842F824A010/video.m3u8
@@ -6923,9 +7040,6 @@ http://cdn.iptv11.com/1756/41842F824A010/video.m3u8
 #EXTINF:0  tvg-logo="https://iptvx.one/picons/nick-jr.png" tvg-rec="14", Nick Jr. PL
 #EXTGRP:PL
 http://cdn.iptv11.com/1513/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", TV Trwam PL
-#EXTGRP:PL
-http://cdn.iptv11.com/1633/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv4469" tvg-logo="http://epg.it999.ru/img/4469.png" tvg-rec="14", Kino Polska PL
 #EXTGRP:PL
 http://cdn.iptv11.com/1510/41842F824A010/video.m3u8
@@ -7124,7 +7238,7 @@ http://cdn.iptv11.com/1831/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="tvp1" tvg-logo="https://iptvx.one/picons/tvp1.png" tvg-rec="14", TVP 1 PL
 #EXTGRP:PL
 http://cdn.iptv11.com/1555/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="iptv3079" tvg-logo="http://epg.it999.ru/img/3079.png" tvg-rec="14", CANAL+Family PL
+#EXTINF:0 tvg-id="iptv3079" tvg-logo="http://epg.it999.ru/img/3079.png" tvg-rec="14", CANAL+ Family PL
 #EXTGRP:PL
 http://cdn.iptv11.com/1675/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv4492" tvg-logo="http://epg.it999.ru/img/4492.png" tvg-rec="14", TVN Fabula PL
@@ -7199,15 +7313,6 @@ http://cdn.iptv11.com/1966/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", ULTRA TV 4K
 #EXTGRP:PL
 http://cdn.iptv11.com/2994/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", VOD 1
-#EXTGRP:PL
-http://cdn.iptv11.com/1723/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", VOD 2
-#EXTGRP:PL
-http://cdn.iptv11.com/1726/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", VOD 3
-#EXTGRP:PL
-http://cdn.iptv11.com/1795/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv2560" tvg-logo="http://epg.it999.ru/img/2560.png" tvg-rec="14", 1 TV GE
 #EXTGRP:GE
 http://cdn.iptv11.com/386/41842F824A010/video.m3u8
@@ -7349,12 +7454,15 @@ http://cdn.iptv11.com/3140/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="aqtobe" tvg-rec="14", AQTOBE
 #EXTGRP:KZ
 http://cdn.iptv11.com/3142/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="iptv2551" tvg-logo="http://epg.it999.ru/img/2551.png" tvg-rec="14", ARB 24
-#EXTGRP:AZ
-http://cdn.iptv11.com/434/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="iptv2635" tvg-logo="http://epg.it999.ru/img/2635.png" tvg-rec="14", ARB TV
+#EXTINF:0  tvg-logo="http://epg.it999.ru/img/2635.png" tvg-rec="14", ARB TV
 #EXTGRP:AZ
 http://cdn.iptv11.com/1448/41842F824A010/video.m3u8
+#EXTINF:0  tvg-logo="http://epg.it999.ru/img/2551.png" tvg-rec="14", ARB 24
+#EXTGRP:AZ
+http://cdn.iptv11.com/1207/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", ARB Gunes
+#EXTGRP:AZ
+http://cdn.iptv11.com/444/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", ATV
 #EXTGRP:AZ
 http://cdn.iptv11.com/1450/41842F824A010/video.m3u8
@@ -7412,12 +7520,9 @@ http://cdn.iptv11.com/1459/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Real TV
 #EXTGRP:AZ
 http://cdn.iptv11.com/441/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", TMB TV AZ
+#EXTINF:0  tvg-rec="14", APA AZ
 #EXTGRP:AZ
 http://cdn.iptv11.com/442/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", AZSTAR AZ
-#EXTGRP:AZ
-http://cdn.iptv11.com/444/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", KATV1
 #EXTGRP:AZ
 http://cdn.iptv11.com/1458/41842F824A010/video.m3u8
@@ -7430,6 +7535,12 @@ http://cdn.iptv11.com/1205/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Qebele TV AZ
 #EXTGRP:AZ
 http://cdn.iptv11.com/1206/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", СTV Media
+#EXTGRP:AZ
+http://cdn.iptv11.com/1208/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Show Plus
+#EXTGRP:AZ
+http://cdn.iptv11.com/1209/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Haber 61 TV
 #EXTGRP:TR
 http://cdn.iptv11.com/1342/41842F824A010/video.m3u8
@@ -7679,7 +7790,7 @@ http://cdn.iptv11.com/1426/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Bein Spotrs MAX 1 HD
 #EXTGRP:TR
 http://cdn.iptv11.com/1427/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Bein Sport MAX 2 HD
+#EXTINF:0  tvg-rec="14", Bein Spotrs MAX 2 HD
 #EXTGRP:TR
 http://cdn.iptv11.com/1428/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Discovery ID
@@ -7697,10 +7808,10 @@ http://cdn.iptv11.com/1432/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Ibrahim Tatlises
 #EXTGRP:TR
 http://cdn.iptv11.com/1433/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Kral TV HD
+#EXTINF:0  tvg-rec="14", Film Screen
 #EXTGRP:TR
 http://cdn.iptv11.com/1434/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Kral POP HD
+#EXTINF:0  tvg-rec="14", GUNEYDOGU
 #EXTGRP:TR
 http://cdn.iptv11.com/1435/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Nat Geo Wild HD TR
@@ -7766,6 +7877,135 @@ http://cdn.iptv11.com/2831/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Halk TV
 #EXTGRP:TR
 http://cdn.iptv11.com/2832/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Exxen 1 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3891/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Exxen 2 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3892/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Exxen 3 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3893/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Exxen 4 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3894/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Exxen 5 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3895/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Exxen 6 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3896/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Exxen 7 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3897/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Exxen 8 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3898/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", A HABER HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3899/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", A NEWS HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3900/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", A PARA HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3901/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", AGRO TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3902/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", AKIT TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3903/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", AKSU TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3904/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Alma Lusa
+#EXTGRP:TR
+http://cdn.iptv11.com/3905/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", ANADOLU DERNEK TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3906/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", ATV EU HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3907/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BABY TV TR
+#EXTGRP:TR
+http://cdn.iptv11.com/3908/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BEIN GURME HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3909/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BENGUTURK
+#EXTGRP:TR
+http://cdn.iptv11.com/3910/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BluTV Play 1
+#EXTGRP:TR
+http://cdn.iptv11.com/3911/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BluTV Play 2
+#EXTGRP:TR
+http://cdn.iptv11.com/3912/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BRT 1 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3913/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BRT 2 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3914/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BRT 3 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3915/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BRTV  HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3916/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", BURSA TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3917/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", CAN TV
+#EXTGRP:TR
+http://cdn.iptv11.com/3918/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Cartoon Network TR
+#EXTGRP:TR
+http://cdn.iptv11.com/3919/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Cartoonito
+#EXTGRP:TR
+http://cdn.iptv11.com/3920/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", CAY TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3921/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", CBEEBIES HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3922/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", CIFTCI TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3924/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", CINE 1 HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3925/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", DA VINCI KIDS HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3926/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", DIYANET TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3927/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", DocuScreen HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3928/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", DOST HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3929/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", EDESSA TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3930/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", EDGE Sport
+#EXTGRP:TR
+http://cdn.iptv11.com/3931/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", EKOTURK HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3932/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", ES TV HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3933/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", EURO D HD
+#EXTGRP:TR
+http://cdn.iptv11.com/3934/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="iptv2654" tvg-logo="http://epg.it999.ru/img/2654.png" tvg-rec="14", Uzbekistan 24 HD
 #EXTGRP:UZ
 http://cdn.iptv11.com/1310/41842F824A010/video.m3u8
@@ -8375,12 +8615,6 @@ http://cdn.iptv11.com/3163/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", BBC First HD RO
 #EXTGRP:RO
 http://cdn.iptv11.com/3164/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Bollywood Classic RO
-#EXTGRP:RO
-http://cdn.iptv11.com/3165/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Bollywood Film RO
-#EXTGRP:RO
-http://cdn.iptv11.com/3166/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Cartoonito RO
 #EXTGRP:RO
 http://cdn.iptv11.com/3168/41842F824A010/video.m3u8
@@ -8540,6 +8774,9 @@ http://cdn.iptv11.com/3326/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", History HU
 #EXTGRP:HU
 http://cdn.iptv11.com/3327/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", HGTV HD HU
+#EXTGRP:HU
+http://cdn.iptv11.com/3179/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Jocky TV HU
 #EXTGRP:HU
 http://cdn.iptv11.com/3328/41842F824A010/video.m3u8
@@ -8594,6 +8831,12 @@ http://cdn.iptv11.com/3344/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", TV2 HU
 #EXTGRP:HU
 http://cdn.iptv11.com/3345/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TV2 Klub HU
+#EXTGRP:HU
+http://cdn.iptv11.com/3951/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TLC HD HU
+#EXTGRP:HU
+http://cdn.iptv11.com/3203/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Viasat Nature HU
 #EXTGRP:HU
 http://cdn.iptv11.com/3346/41842F824A010/video.m3u8
@@ -8633,6 +8876,12 @@ http://cdn.iptv11.com/3357/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", RTL HAROM HU
 #EXTGRP:HU
 http://cdn.iptv11.com/3358/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", RTL OTTHON HU
+#EXTGRP:HU
+http://cdn.iptv11.com/3955/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Kolyokklub
+#EXTGRP:HU
+http://cdn.iptv11.com/3954/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", BBC Earth HU
 #EXTGRP:HU
 http://cdn.iptv11.com/3359/41842F824A010/video.m3u8
@@ -8840,6 +9089,9 @@ http://cdn.iptv11.com/3427/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Cartoonito HU
 #EXTGRP:HU
 http://cdn.iptv11.com/3428/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", TeenNick HU
+#EXTGRP:HU
+http://cdn.iptv11.com/3952/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Cinemax HU
 #EXTGRP:HU
 http://cdn.iptv11.com/3429/41842F824A010/video.m3u8
@@ -8891,18 +9143,15 @@ http://cdn.iptv11.com/1074/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="9kanal-israel" tvg-rec="14", Channel 9 HD
 #EXTGRP:IL
 http://cdn.iptv11.com/1075/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="9kanal-israel" tvg-rec="14", Channel 9
-#EXTGRP:IL
-http://cdn.iptv11.com/1076/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Channel 11
-#EXTGRP:IL
-http://cdn.iptv11.com/1077/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Channel 12
 #EXTGRP:IL
 http://cdn.iptv11.com/1078/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Channel 13
 #EXTGRP:IL
 http://cdn.iptv11.com/1079/41842F824A010/video.m3u8
+#EXTINF:0  tvg-rec="14", Channel 14
+#EXTGRP:IL
+http://cdn.iptv11.com/1077/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", CHANNEL 23 HD
 #EXTGRP:IL
 http://cdn.iptv11.com/1081/41842F824A010/video.m3u8
@@ -9725,35 +9974,6 @@ http://cdn.iptv11.com/2777/41842F824A010/video.m3u8
 #EXTINF:0  tvg-logo="http://epg.it999.ru/img/3905.png" tvg-rec="14", Boomerang CZ
 #EXTGRP:CZSK
 http://cdn.iptv11.com/12778/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", FilmBox Extra CZ
-#EXTGRP:CZSK
-http://cdn.iptv11.com/3399/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", FilmBox Family CZ
-#EXTGRP:CZSK
-http://cdn.iptv11.com/3341/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Love Nature CZ
-#EXTGRP:CZSK
-http://cdn.iptv11.com/210/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Eurosport CZ
-#EXTGRP:CZSK
-http://cdn.iptv11.com/655/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Arena Sport 1
-#EXTGRP:CZSK
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:0  tvg-rec="14", Canal+ Sport
-#EXTGRP:CZSK
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:0  tvg-rec="14", Sport 2
-#EXTGRP:CZSK
-http://oexgurl5.megogo.xyz/iptv/XWPTN8E8HVL48E/2557/index.m3u8
-#EXTINF:0  tvg-rec="14", Sport 1
-#EXTGRP:CZSK
-http://78.130.250.2:8023/play/a02u/index.m3u8
-#EXTINF:0  tvg-rec="14", Retro Music TV
-#EXTGRP:CZSK
-http://78.130.250.2:8023/play/a02r/index.m3u8
-
-
 #EXTINF:0 tvg-id="iptv6457" tvg-logo="http://epg.it999.ru/img/6457.png" tvg-rec="14", RAI 1 HD
 #EXTGRP:IT
 http://cdn.iptv11.com/2932/41842F824A010/video.m3u8
@@ -9949,21 +10169,6 @@ http://cdn.iptv11.com/3137/41842F824A010/video.m3u8
 #EXTINF:0  tvg-rec="14", Кино 1 +18
 #EXTGRP:XXX
 http://cdn.iptv11.com/3138/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Adult 1
-#EXTGRP:XXX
-http://cdn.iptv11.com/1711/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Adult 2
-#EXTGRP:XXX
-http://cdn.iptv11.com/1657/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Adult 3
-#EXTGRP:XXX
-http://cdn.iptv11.com/1660/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Adult 4
-#EXTGRP:XXX
-http://cdn.iptv11.com/1714/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Adult 5
-#EXTGRP:XXX
-http://cdn.iptv11.com/1717/41842F824A010/video.m3u8
 #EXTINF:0 tvg-id="fashion-one-4k" tvg-logo="https://iptvx.one/picons/fashion-one-4k.png" tvg-rec="14", Fashion One 4K
 #EXTGRP:4К
 http://cdn.iptv11.com/FashionOne4K/41842F824A010/video.m3u8
