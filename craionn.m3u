@@ -1,309 +1,307 @@
 
-#EXTM3U catchup="flussonic"  url-tvg="https://iptvx.one/epg/epg.xml.gz" refresh="3600"
-#EXTINF:0 tvg-id="balkanika" tvg-logo="https://iptvx.one/picons/balkanika.png" tvg-rec="14", Балканика
-#EXTGRP:CZSK
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="balkanika" tvg-logo="https://iptvx.one/picons/balkanika.png" group-title="CZSK", Балканика
 http://cdn.iptv11.com/2630/41842F824A010/video.m3u8
 
-#EXTINF:0  tvg-rec="14", Nova International HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Nova International HD CZ
 http://cdn.iptv11.com/2687/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Doma HD
-#EXTGRP:CZSK
+
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Doma HD
 http://cdn.iptv11.com/2688/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="travel-xp-hd" tvg-logo="https://iptvx.one/picons/travel-xp-hd.png" tvg-rec="14", Travel XP HD CZ
-#EXTGRP:CZSK
+
+#EXTINF:-1 tvg-id="travel-xp-hd" tvg-logo="https://iptvx.one/picons/travel-xp-hd.png" group-title="CZSK", Travel XP HD CZ
 http://cdn.iptv11.com/2689/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Jojko HD
-#EXTGRP:CZSK
+
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Jojko HD
 http://cdn.iptv11.com/2690/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/2229.png" tvg-rec="14", Epic Drama HD CZ
-#EXTGRP:CZSK
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/2229.png" group-title="CZSK", Epic Drama HD CZ
 http://cdn.iptv11.com/2691/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://epg.it999.ru/img/3779.png" tvg-rec="14", Viasat Nature HD CZ
-#EXTGRP:CZSK
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://epg.it999.ru/img/3779.png" group-title="CZSK", Viasat Nature HD CZ
+
 http://cdn.iptv11.com/2692/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Markiza international HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Markiza international HD
+
 http://cdn.iptv11.com/2693/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://epg.it999.ru/img/4878.png" tvg-rec="14", Viasat Explore HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://epg.it999.ru/img/4878.png" group-title="CZSK", Viasat Explore HD CZ
+
 http://cdn.iptv11.com/2694/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/2057.png" tvg-rec="14", Food Network CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/2057.png" group-title="CZSK", Food Network CZ
+
 http://cdn.iptv11.com/2695/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Dajto HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Dajto HD
+
 http://cdn.iptv11.com/2696/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Mnam CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Mnam CZ
+
 http://cdn.iptv11.com/2697/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Markiza HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Markiza HD
+
 http://cdn.iptv11.com/2698/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Wau HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Wau HD
 http://cdn.iptv11.com/2699/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", CS History
-#EXTGRP:CZSK
+
+#EXTINF:-1 tvg-id=""  group-title="CZSK", CS History
 http://cdn.iptv11.com/2700/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", CS Mystery
-#EXTGRP:CZSK
+
+#EXTINF:-1 tvg-id=""  group-title="CZSK", CS Mystery
 http://cdn.iptv11.com/2701/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/polsat-viasat-history.png" tvg-rec="14", Viasat History HD CZ
-#EXTGRP:CZSK
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/polsat-viasat-history.png" group-title="CZSK", Viasat History HD CZ
 http://cdn.iptv11.com/2702/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", JOJ Plus HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", JOJ Plus HD
 http://cdn.iptv11.com/2703/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", CS Horror
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", CS Horror
+
 http://cdn.iptv11.com/2704/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", JOJ Sport HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", JOJ Sport HD CZ
+
 http://cdn.iptv11.com/2705/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/travel-channel.png" tvg-rec="14", Travel Channel HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/travel-channel.png" group-title="CZSK", Travel Channel HD CZ
+
 http://cdn.iptv11.com/2706/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Film Europe+ HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Film Europe+ HD CZ
+
 http://cdn.iptv11.com/2707/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", JOJ HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", JOJ HD
+
 http://cdn.iptv11.com/2708/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Spectrum Home CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Spectrum Home CZ
+
 http://cdn.iptv11.com/2709/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Fishing Hunting CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Fishing Hunting CZ
+
 http://cdn.iptv11.com/2710/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/4009.png" tvg-rec="14", Nickelodeon CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/4009.png" group-title="CZSK", Nickelodeon CZ
+
 http://cdn.iptv11.com/2711/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Prima ZOOM HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Prima ZOOM HD CZ
+
 http://cdn.iptv11.com/2712/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="iptv2940" tvg-logo="http://epg.it999.ru/img/2940.png" tvg-rec="14", Nova Sport 2 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id="iptv2940" tvg-logo="http://epg.it999.ru/img/2940.png" group-title="CZSK", Nova Sport 2 HD CZ
+
 http://cdn.iptv11.com/2713/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/hbo-hd.png" tvg-rec="14", HBO HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/hbo-hd.png" group-title="CZSK", HBO HD CZ
+
 http://cdn.iptv11.com/2714/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="iptv2939" tvg-logo="http://epg.it999.ru/img/2939.png" tvg-rec="14", Nova Sport 1 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id="iptv2939" tvg-logo="http://epg.it999.ru/img/2939.png" group-title="CZSK", Nova Sport 1 HD CZ
+
 http://cdn.iptv11.com/2715/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="iptv2935" tvg-logo="http://epg.it999.ru/img/2935.png" tvg-rec="14", CT Sport HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id="iptv2935" tvg-logo="http://epg.it999.ru/img/2935.png" group-title="CZSK", CT Sport HD CZ
+
 http://cdn.iptv11.com/2716/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Relax TV
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Relax TV
+
 http://cdn.iptv11.com/2717/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/nick-jr.png" tvg-rec="14", Nick  Jr CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="CZSK", Nick  Jr CZ
+
 http://cdn.iptv11.com/2718/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", CS Film
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", CS Film
+
 http://cdn.iptv11.com/2719/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/axn-black-pl.png" tvg-rec="14", AXN Black CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/axn-black-pl.png" group-title="CZSK", AXN Black CZ
+
 http://cdn.iptv11.com/2720/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/2674.png" tvg-rec="14", Disney Jr CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/2674.png" group-title="CZSK", Disney Jr CZ
+
 http://cdn.iptv11.com/2721/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Prima Star HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Prima Star HD CZ
+
 http://cdn.iptv11.com/2722/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/4858.png" tvg-rec="14", Nicktoons CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/4858.png" group-title="CZSK", Nicktoons CZ
+
 http://cdn.iptv11.com/2723/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Rik HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Rik HD CZ
+
 http://cdn.iptv11.com/2724/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Jednotka HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Jednotka HD
+
 http://cdn.iptv11.com/2725/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Nova HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Nova HD CZ
+
 http://cdn.iptv11.com/2726/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Nova Fun HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Nova Fun HD CZ
+
 http://cdn.iptv11.com/2727/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="ct24-cz" tvg-logo="https://iptvx.one/picons/ct24-cz.png" tvg-rec="14", CT24 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id="ct24-cz" tvg-logo="https://iptvx.one/picons/ct24-cz.png" group-title="CZSK", CT24 HD CZ
+
 http://cdn.iptv11.com/2728/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Nova Action HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Nova Action HD CZ
+
 http://cdn.iptv11.com/2729/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Nova Cinema HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Nova Cinema HD CZ
+
 http://cdn.iptv11.com/2730/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/3729.png" tvg-rec="14", HBO 3 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/3729.png" group-title="CZSK", HBO 3 HD CZ
+
 http://cdn.iptv11.com/2731/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Prima Love HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Prima Love HD CZ
+
 http://cdn.iptv11.com/2732/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/paramount-network-pl.png" tvg-rec="14", Paramount Network HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/paramount-network-pl.png" group-title="CZSK", Paramount Network HD CZ
+
 http://cdn.iptv11.com/2733/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/4014.png" tvg-rec="14", History HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/4014.png" group-title="CZSK", History HD CZ
+
 http://cdn.iptv11.com/2734/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Arcadia World CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Arcadia World CZ
+
 http://cdn.iptv11.com/2735/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Dvojka HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Dvojka HD
+
 http://cdn.iptv11.com/2736/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", JOJ Family HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", JOJ Family HD CZ
+
 http://cdn.iptv11.com/2737/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Prima COOL HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Prima COOL HD CZ
+
 http://cdn.iptv11.com/2738/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Markíza Krimi HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Markíza Krimi HD
+
 http://cdn.iptv11.com/2739/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Nova Gold HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Nova Gold HD CZ
+
 http://cdn.iptv11.com/2740/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", JOJ Cinema HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", JOJ Cinema HD CZ
+
 http://cdn.iptv11.com/2741/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/3747.png" tvg-rec="14", HBO 2 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/3747.png" group-title="CZSK", HBO 2 HD CZ
+
 http://cdn.iptv11.com/2742/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Barrandov HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Barrandov HD CZ
+
 http://cdn.iptv11.com/2743/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Prima+ HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Prima+ HD CZ
+
 http://cdn.iptv11.com/2744/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Spektrum HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Spektrum HD CZ
+
 http://cdn.iptv11.com/2745/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Šláger Muzika HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Šláger Muzika HD CZ
+
 http://cdn.iptv11.com/2746/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="ct1-cz" tvg-logo="https://iptvx.one/picons/ct1-cz.png" tvg-rec="14", CT1 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id="ct1-cz" tvg-logo="https://iptvx.one/picons/ct1-cz.png" group-title="CZSK", CT1 HD CZ
+
 http://cdn.iptv11.com/2747/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="ct2-cz" tvg-logo="https://iptvx.one/picons/ct2-cz.png" tvg-rec="14", CT2 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id="ct2-cz" tvg-logo="https://iptvx.one/picons/ct2-cz.png" group-title="CZSK", CT2 HD CZ
+
 http://cdn.iptv11.com/2748/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/3702.png" tvg-rec="14", Minimax CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/3702.png" group-title="CZSK", Minimax CZ
+
 http://cdn.iptv11.com/2749/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", FILM+ HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", FILM+ HD CZ
+
 http://cdn.iptv11.com/2750/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/4814.png" tvg-rec="14", National Geographic HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/4814.png" group-title="CZSK", National Geographic HD CZ
+
 http://cdn.iptv11.com/2751/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" tvg-rec="14", Animal Planet CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="CZSK", Animal Planet CZ
+
 http://cdn.iptv11.com/2752/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="cinemax" tvg-logo="https://iptvx.one/picons/cinemax.png" tvg-rec="14", Cinemax 1 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://iptvx.one/picons/cinemax.png" group-title="CZSK", Cinemax 1 HD CZ
+
 http://cdn.iptv11.com/2753/41842F824A010/video.m3u8
-#EXTINF:0 tvg-id="cinemax2" tvg-logo="https://iptvx.one/picons/cinemax2.png" tvg-rec="14", Cinemax 2 HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id="cinemax2" tvg-logo="https://iptvx.one/picons/cinemax2.png" group-title="CZSK", Cinemax 2 HD CZ
+
 http://cdn.iptv11.com/2754/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", CNN Prima News HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", CNN Prima News HD CZ
+
 http://cdn.iptv11.com/2755/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/3652.png" tvg-rec="14", AMC HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/3652.png" group-title="CZSK", AMC HD CZ
+
 http://cdn.iptv11.com/2756/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Film Europe HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Film Europe HD CZ
+
 http://cdn.iptv11.com/2757/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://epg.it999.ru/img/325.png" tvg-rec="14", Discovery HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://epg.it999.ru/img/325.png" group-title="CZSK", Discovery HD CZ
+
 http://cdn.iptv11.com/2758/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/idxtra.png" tvg-rec="14", Crime Investigation CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="CZSK", Crime Investigation CZ
+
 http://cdn.iptv11.com/2759/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/4307.png" tvg-rec="14", Disney CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/4307.png" group-title="CZSK", Disney CZ
+
 http://cdn.iptv11.com/2760/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/425.png" tvg-rec="14", TLC CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/425.png" group-title="CZSK", TLC CZ
+
 http://cdn.iptv11.com/2761/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="14", Discovery Science HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/409.png" group-title="CZSK", Discovery Science HD CZ
+
 http://cdn.iptv11.com/2762/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Televize Seznam HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Televize Seznam HD CZ
+
 http://cdn.iptv11.com/2763/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="https://iptvx.one/picons/prima.png" tvg-rec="14", Prima HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://iptvx.one/picons/prima.png" group-title="CZSK", Prima HD CZ
+
 http://cdn.iptv11.com/2764/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/3752.png" tvg-rec="14", Nat Geo Wild HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/3752.png" group-title="CZSK", Nat Geo Wild HD CZ
+
 http://cdn.iptv11.com/2765/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", JOJ 24 HD
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", JOJ 24 HD
+
 http://cdn.iptv11.com/2766/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Barrandov Krimi HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Barrandov Krimi HD CZ
+
 http://cdn.iptv11.com/2767/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Praha TV CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Praha TV CZ
+
 http://cdn.iptv11.com/2768/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Kino Barrandov HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Kino Barrandov HD CZ
+
 http://cdn.iptv11.com/2769/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Nova Lady HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Nova Lady HD CZ
+
 http://cdn.iptv11.com/2770/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Prima Max HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Prima Max HD CZ
+
 http://cdn.iptv11.com/2771/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/4845.png" tvg-rec="14", Cartoon Network HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/4845.png" group-title="CZSK", Cartoon Network HD CZ
+
 http://cdn.iptv11.com/2772/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Prima Krimi HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Prima Krimi HD CZ
+
 http://cdn.iptv11.com/2773/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Prima Show HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Prima Show HD CZ
+
 http://cdn.iptv11.com/2774/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", CT D HD CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", CT D HD CZ
+
 http://cdn.iptv11.com/2775/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/3750.png" tvg-rec="14", AXN CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/3750.png" group-title="CZSK", AXN CZ
+
 http://cdn.iptv11.com/2776/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/3692.png" tvg-rec="14", AXN White CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/3692.png" group-title="CZSK", AXN White CZ
+
 http://cdn.iptv11.com/2777/41842F824A010/video.m3u8
-#EXTINF:0  tvg-logo="http://epg.it999.ru/img/3905.png" tvg-rec="14", Boomerang CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.it999.ru/img/3905.png" group-title="CZSK", Boomerang CZ
+
 http://cdn.iptv11.com/12778/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", FilmBox Extra CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", FilmBox Extra CZ
+
 http://cdn.iptv11.com/3399/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", FilmBox Family CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", FilmBox Family CZ
+
 http://cdn.iptv11.com/3341/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Love Nature CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Love Nature CZ
+
 http://cdn.iptv11.com/210/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Eurosport CZ
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Eurosport CZ
+
 http://cdn.iptv11.com/655/41842F824A010/video.m3u8
-#EXTINF:0  tvg-rec="14", Arena Sport 1
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Arena Sport 1
+
 http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:0  tvg-rec="14", Canal+ Sport
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Canal+ Sport
+
 http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:0  tvg-rec="14", Sport 2
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Sport 2
+
 http://oexgurl5.megogo.xyz/iptv/XWPTN8E8HVL48E/2557/index.m3u8
-#EXTINF:0  tvg-rec="14", Sport 1
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Sport 1
+
 http://78.130.250.2:8023/play/a02u/index.m3u8
-#EXTINF:0  tvg-rec="14", Retro Music TV
-#EXTGRP:CZSK
+#EXTINF:-1 tvg-id=""  group-title="CZSK", Retro Music TV
+
 http://78.130.250.2:8023/play/a02r/index.m3u8
