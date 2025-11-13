@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 ,USA Network HD
+http://195.181.163.243/USA_NETWORK/index.m3u8
+#EXTINF:-1 ,BBC AMERICA HD
+http://195.181.163.243/BBC_AMERICA/index.m3u8
+#EXTINF:-1 ,BET East HD
+http://195.181.163.243/BET_EAST/index.m3u8
+#EXTINF:-1 ,MGM+ HD
+http://195.181.163.243/EPIX/index.m3u8
+#EXTINF:-1 ,MGM+ Hits HD
+http://195.181.163.243/EPIX_HITS/index.m3u8
+#EXTINF:-1 ,MGM+ Drive In HD
+http://195.181.163.243/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 ,MGM+ Marquee Hits HD
+http://195.181.163.243/EPIX_2/index.m3u8
+#EXTINF:-1 ,Paramount Network HD
+http://195.181.163.243/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 ,TBS
+http://195.181.163.243/TBS/index.m3u8
+#EXTINF:-1 ,Lifetime HD
+http://195.181.163.243/LIFETIME/index.m3u8
+#EXTINF:-1 ,Ovation HD
+http://195.181.163.243/Ovation/index.m3u8
+#EXTINF:-1 ,SHOWTIME HD
+http://195.181.163.243/SHOWTIME/index.m3u8
+#EXTINF:-1 ,SHOWTIME2 HD
+http://195.181.163.243/SHOWTIME_2/index.m3u8
+#EXTINF:-1 ,SHOWTIME Extreme HD
+http://195.181.163.243/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 ,SHOWTIME Women HD
+http://195.181.163.243/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 ,STARZ HD
+http://195.181.163.243/STARZ/index.m3u8
+#EXTINF:-1 ,STARZ Comedy HD
+http://195.181.163.243/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 ,STARZ Edge HD
+http://195.181.163.243/STARZ_EDGE/index.m3u8
+#EXTINF:-1 ,STARZ Encore Action HD
+http://195.181.163.243/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 ,STARZ Encore Classic HD
+http://195.181.163.243/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 ,STARZ Encore Westerns HD
+http://195.181.163.243/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 ,Syfy HD
+http://195.181.163.243/SYFY/index.m3u8
+#EXTINF:-1 ,HBO2 HD
+http://195.181.163.243/HBO_2/index.m3u8
+#EXTINF:-1 ,HBO Comedy
+http://195.181.163.243/HBO_COMEDY/index.m3u8
+#EXTINF:-1 ,WE TV HD
+http://195.181.163.243/WE_TV/index.m3u8
+#EXTINF:-1 ,Fuse HD
+http://195.181.163.243/FUSE/index.m3u8
+#EXTINF:-1 ,Buzzr HD
+http://195.181.163.243/Buzzr/index.m3u8
+#EXTINF:-1 ,Aspire HD
+http://195.181.163.243/Aspire/index.m3u8
+#EXTINF:-1 ,AxsTV HD
+http://195.181.163.243/Axs_TV/index.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://195.181.163.243/Discovery_Channel/index.m3u8
+#EXTINF:-1 ,Discovery Family HD
+http://195.181.163.243/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 ,Discovery Life HD
+http://195.181.163.243/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 ,FOOD NETWORK HD
+http://195.181.163.243/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 ,FYI HD
+http://195.181.163.243/FYI/index.m3u8
+#EXTINF:-1 ,W Network HD
+http://195.181.163.243/W_NETWORK/index.m3u8
+#EXTINF:-1 ,ION Plus HD
+http://195.181.163.243/ION_Plus/index.m3u8
+#EXTINF:-1 ,Cleo TV HD
+http://195.181.163.243/Cleo_TV/index.m3u8
+#EXTINF:-1 ,Start TV HD
+http://195.181.163.243/Start_Tv/index.m3u8
