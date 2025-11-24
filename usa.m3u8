@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=""  group-title="CZSK" ,Animal planet
+#EXTINF:-1 tvg-id=""  group-title="CZSK" ,Animal planet CZ
 http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="CZSK" ,Cinemax CZ
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
