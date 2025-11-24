@@ -10,33 +10,7 @@ http://213.81.133.133:8080/joj/index.m3u8
 #EXTINF:-1 ,U TV
 http://213.81.133.133:8080/u-tv/index.m3u8
 #EXTINF:-1 ,Stingray Classic
-http://78.130.250.2:8023/play/a01n/index.m3u8
-#EXTINF:-1 ,Nova Cinema HD
-http://78.130.250.2:8023/play/a01y/index.m3u8
-#EXTINF:-1 ,CS Film/CS Mini
-http://78.130.250.2:8023/play/a01z/index.m3u8
-#EXTINF:-1 ,National Geographic
-http://78.130.250.2:8023/play/a02e/index.m3u8
-#EXTINF:-1 ,Nova Sport 1
-http://78.130.250.2:8023/play/a02k/index.m3u8
-#EXTINF:-1 ,Love Nature
-http://78.130.250.2:8023/play/a02m/index.m3u8
-#EXTINF:-1 ,Arena Sport 1
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 ,NBC Golf
-http://78.130.250.2:8023/play/a02q/index.m3u8
-#EXTINF:-1 ,Retro Music TV
-http://78.130.250.2:8023/play/a02r/index.m3u8
-#EXTINF:-1 ,Sport 1
-http://78.130.250.2:8023/play/a02u/index.m3u8
-#EXTINF:-1 ,Canal+ Sport
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 ,Nova HD
-http://78.130.250.2:8023/play/a02y/index.m3u8
-#EXTINF:-1 ,Nova Action HD
-http://78.130.250.2:8023/play/a02z/index.m3u8
-#EXTINF:-1 ,Kino Barrandov
-http://83.167.253.107/hdmi1_ext
+
 #EXTINF:-1 ,Animal planet
 http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,Cinemax
@@ -53,9 +27,3 @@ http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png",FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/GyoWsNb.png",JOJ Family
-http://nn.geo.joj.sk/hls/family-540.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/1LHa0EI.png",JOJ Plus (1080p)
-https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/nRDWpNs.jpg",Wau TV
-https://nn.geo.joj.sk/hls/wau-540.m3u8
