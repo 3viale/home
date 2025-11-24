@@ -13,7 +13,7 @@ http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="CZSK" ,TRAVEL CHANNEL HD CZ
 http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id=""  group-title="CZSK"  FASHION TV Czech&Slovak
+#EXTINF:-1 tvg-id=""  group-title="CZSK"  ,FASHION TV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  group-title="USA" ,MGM+ HD
