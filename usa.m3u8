@@ -52,3 +52,10 @@ http://195.181.163.243/SYFY/index.m3u8
 http://195.181.163.243/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id=""  group-title="USA" ,HBO Comedy
 http://195.181.163.243/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="Hudba" ,Trace UK
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 tvg-id=""  group-title="Hudba" ,AFROBEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id=""  group-title="Hudba" ,V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
