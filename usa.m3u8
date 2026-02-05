@@ -59,3 +59,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id=""  group-title="Hudba" ,V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-id="", BRIDGE FRESH
+#EXTGRP:Hudba
+http://825c9068.russtv.net/iptv/YWV4QCM2VZQZEZ/9053/index.m3u8
+
