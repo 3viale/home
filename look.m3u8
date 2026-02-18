@@ -10172,84 +10172,95 @@ http://825c9068.russtv.net/iptv/YWV4QCM2VZQZEZ/31664/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Сериалы 4K
 #EXTGRP:4K
 http://825c9068.russtv.net/iptv/YWV4QCM2VZQZEZ/31665/index.m3u8
-#EXTINF:0, DAJTO
-#EXTGRP:unsorted
-http://213.81.133.133:8080/dajto/index.m3u8
-#EXTINF:0, DVOJKA
-#EXTGRP:unsorted
-http://213.81.133.133:8080/dvojka/index.m3u8
-#EXTINF:0, JEDNOTKA
-#EXTGRP:unsorted
-http://213.81.133.133:8080/jednotka/index.m3u8
-#EXTINF:0, JOJ
-#EXTGRP:unsorted
-http://213.81.133.133:8080/joj/index.m3u8
-#EXTINF:0, U TV
-#EXTGRP:unsorted
-http://213.81.133.133:8080/u-tv/index.m3u8
-#EXTINF:0, Stingray Classic
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a01n/index.m3u8
-#EXTINF:0, Nova Cinema HD
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a01y/index.m3u8
-#EXTINF:0, CS Film/CS Mini
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a01z/index.m3u8
-#EXTINF:0, National Geographic
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02e/index.m3u8
-#EXTINF:0, Nova Sport 1
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02k/index.m3u8
-#EXTINF:0, Love Nature
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02m/index.m3u8
-#EXTINF:0, Arena Sport 1
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:0, NBC Golf
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02q/index.m3u8
-#EXTINF:0, Retro Music TV
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02r/index.m3u8
-#EXTINF:0, HBO
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02s/index.m3u8
-#EXTINF:0, Sport 1
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02u/index.m3u8
-#EXTINF:0, Canal+ Sport
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:0, Nova HD
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02y/index.m3u8
-#EXTINF:0, Nova Action HD
-#EXTGRP:unsorted
-http://78.130.250.2:8023/play/a02z/index.m3u8
-#EXTINF:0, Kino Barrandov
-#EXTGRP:unsorted
-http://83.167.253.107/hdmi1_ext
-#EXTINF:0, Animal planet
-#EXTGRP:unsorted
+
+#EXTINF:0 tvg-id="", Animal planet CZ
+#EXTGRP:CZSK
 http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:0, Cinemax
-#EXTGRP:unsorted
+#EXTINF:0 tvg-id="", Cinemax CZ
+#EXTGRP:CZSK
 http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:0, Cinemax 2
-#EXTGRP:unsorted
+#EXTINF:0 tvg-id="", Cinemax 2 CZ
+#EXTGRP:CZSK
 http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png", FashionTV Czech&Slovak
-#EXTGRP:unsorted
+#EXTINF:0 tvg-id="", HBO HD CZ
+#EXTGRP:CZSK
+http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="", HBO 2 HD CZ
+#EXTGRP:CZSK
+http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="", HBO 3 HD CZ
+#EXTGRP:CZSK
+http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="", TRAVEL CHANNEL HD CZ
+#EXTGRP:CZSK
+http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="", FASHION TV Czech&Slovak
+#EXTGRP:CZSK
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/GyoWsNb.png", JOJ Family
+#EXTINF:0 tvg-id="", MGM+ HD
+#EXTGRP:USA
+http://195.181.163.243/EPIX/index.m3u8
+#EXTINF:0 tvg-id="", MGM+ Marquee Hits  HD
+#EXTGRP:USA
+http://195.181.163.243/EPIX_HITS/index.m3u8
+#EXTINF:0, MGM+ Drive In HD
 #EXTGRP:unsorted
-http://nn.geo.joj.sk/hls/family-540.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/1LHa0EI.png", JOJ Plus (1080p)
-#EXTGRP:unsorted
-https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/nRDWpNs.jpg", Wau TV
-#EXTGRP:unsorted
-https://nn.geo.joj.sk/hls/wau-540.m3u8
+http://195.181.163.243/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:0 tvg-id="", MGM+ Hits HD
+#EXTGRP:USA
+http://195.181.163.243/EPIX_2/index.m3u8
+#EXTINF:0 tvg-id="", Paramount Network HD
+#EXTGRP:USA
+http://195.181.163.243/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 tvg-id="", SHOWTIME HD
+#EXTGRP:USA
+http://195.181.163.243/SHOWTIME/index.m3u8
+#EXTINF:0 tvg-id="", SHOWTIME2 HD
+#EXTGRP:USA
+http://195.181.163.243/SHOWTIME_2/index.m3u8
+#EXTINF:0 tvg-id="", SHOWTIME Extreme HD
+#EXTGRP:USA
+http://195.181.163.243/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:0 tvg-id="", SHOWTIME Women HD
+#EXTGRP:USA
+http://195.181.163.243/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:0 tvg-id="", STARZ HD
+#EXTGRP:USA
+http://195.181.163.243/STARZ/index.m3u8
+#EXTINF:0 tvg-id="", STARZ Comedy HD
+#EXTGRP:USA
+http://195.181.163.243/STARZ_COMEDY/index.m3u8
+#EXTINF:0 tvg-id="", STARZ Edge HD
+#EXTGRP:USA
+http://195.181.163.243/STARZ_EDGE/index.m3u8
+#EXTINF:0 tvg-id="", STARZ Encore Action HD
+#EXTGRP:USA
+http://195.181.163.243/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:0 tvg-id="", STARZ Encore Classic HD
+#EXTGRP:USA
+http://195.181.163.243/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:0 tvg-id="", STARZ Encore Westerns HD
+#EXTGRP:USA
+http://195.181.163.243/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:0 tvg-id="", Syfy HD
+#EXTGRP:USA
+http://195.181.163.243/SYFY/index.m3u8
+#EXTINF:0 tvg-id="", HBO2 HD
+#EXTGRP:USA
+http://195.181.163.243/HBO_2/index.m3u8
+#EXTINF:0 tvg-id="", HBO Comedy
+#EXTGRP:USA
+http://195.181.163.243/HBO_COMEDY/index.m3u8
+#EXTINF:0 tvg-id="", Trace UK
+#EXTGRP:Hudba
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:0 tvg-id="", AFROBEATS
+#EXTGRP:Hudba
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:0 tvg-id="", V2BEAT
+#EXTGRP:Hudba
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-id="", BRIDGE FRESH
+#EXTGRP:Hudba
+http://825c9068.russtv.net/iptv/YWV4QCM2VZQZEZ/9053/index.m3u8
+
