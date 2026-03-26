@@ -63,3 +63,23 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTGRP:Hudba
 http://825c9068.russtv.net/iptv/YWV4QCM2VZQZEZ/9053/index.m3u8
 
+#EXTINF:-1 group-title="LAT",HBO
+http://38.224.73.146:8000/play/a1bc/index.m3u8
+#EXTINF:-1 group-title="LAT",HBO 2
+http://38.224.73.146:8000/play/a17t/index.m3u8
+#EXTINF:-1 group-title="LAT",HBO Family HD
+http://38.224.73.146:8000/play/a18h/index.m3u8
+#EXTINF:-1 group-title="LAT",HBO HD
+http://38.224.73.146:8000/play/a139/index.m3u8
+#EXTINF:-1 group-title="LAT",HBO Mundi
+http://38.224.73.146:8000/play/a1cu/index.m3u8
+#EXTINF:-1 group-title="LAT",HBO POP HD
+http://38.224.73.146:8000/play/a13j/index.m3u8
+#EXTINF:-1 group-title="LAT",HBO Plus
+http://38.224.73.146:8000/play/a17s/index.m3u8
+#EXTINF:-1 group-title="LAT",HBO Signature
+http://38.224.73.146:8000/play/a16b/index.m3u8
+#EXTINF:-1 group-title="LAT",HBO XTREME HD
+http://38.224.73.146:8000/play/a197/index.m3u8
+#EXTINF:-1 group-title="LAT",Playboy HD
+http://38.224.73.146:8000/play/a199/index.m3u8
