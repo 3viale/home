@@ -10196,6 +10196,12 @@ http://90.183.52.46:4000/play/a057/index.m3u8
 #EXTINF:0 tvg-id="", Nova CZ
 #EXTGRP:CZSK
 http://90.183.52.46:4000/play/a058/index.m3u8
+#EXTINF:-1,SPEKTRUM HOME
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a059/index.m3u8
+#EXTINF:-1,Nick Jr.
+#EXTGRP:CZSK
+http://88.212.15.35/nick_jr/index.m3u8
 #EXTINF:0 tvg-id="", Animal planet CZ
 #EXTGRP:CZSK
 http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
