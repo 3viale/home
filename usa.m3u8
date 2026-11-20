@@ -16,6 +16,35 @@ http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="CZSK"  ,FASHION TV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
+#EXTINF:0 tvg-id="", Prima Cool CZ
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a06h/index.m3u8
+#EXTINF:0 tvg-id="", Prima Krimi CZ
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a06i/index.m3u8
+#EXTINF:0 tvg-id="", Prima Max CZ
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a06f/index.m3u8
+#EXTINF:0 tvg-id="", Prima Zoom CZ
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a06e/index.m3u8
+#EXTINF:0 tvg-id="", Prima CZ
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a06g/index.m3u8
+#EXTINF:0 tvg-id="", Nova Cinema CZ
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a057/index.m3u8
+#EXTINF:0 tvg-id="", Nova CZ
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a058/index.m3u8
+#EXTINF:-1,SPEKTRUM HOME
+#EXTGRP:CZSK
+http://90.183.52.46:4000/play/a059/index.m3u8
+#EXTINF:-1,Nick Jr.
+#EXTGRP:CZSK
+http://88.212.15.35/nick_jr/index.m3u8
+
+
 #EXTINF:-1 tvg-id=""  group-title="USA" ,MGM+ HD
 http://195.181.163.243/EPIX/index.m3u8
 #EXTINF:-1 tvg-id=""  group-title="USA" ,MGM+ Marquee Hits  HD
